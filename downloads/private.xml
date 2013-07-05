@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Home/Top (Colemak) Row Numbers Overlay</name>
+    <item>
+      <name>Home Row Numbers</name>
+      <appendix>Overlay 1234567890-= onto the top row QWFPGJLUY;[]</appendix>
+      <appendix>Overlay  arstdhneio' onto the home row !@#$%&amp;*()|</appendix>
+      <appendix>Overlay  zxcvbkm,./ onto the home row []-_=+|{}</appendix>
+      <identifier vk_config="true">notsave.private_homerow_numbers</identifier>
+      <!-- Overlay 1234567890-= onto the top row QWFPGJLUY;[] -->
+      <autogen>__KeyToKey__ KeyCode::RawValue::0xc, KeyCode::KEY_1</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0xd, KeyCode::KEY_2</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0xe, KeyCode::KEY_3</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0xf, KeyCode::KEY_4</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x11, KeyCode::KEY_5</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x10, KeyCode::KEY_6</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x20, KeyCode::KEY_7</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x22, KeyCode::KEY_8</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x1f, KeyCode::KEY_9</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x23, KeyCode::KEY_0</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x21, KeyCode::RawValue::0x1b</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x1E, KeyCode::RawValue::0x18</autogen>
+      <!-- Overlay  arstdhneio' onto the home row !@#$%&amp;*()| -->
+        <autogen>__KeyToKey__ KeyCode::RawValue::0x0, KeyCode::KEY_1, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x1, KeyCode::KEY_2, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x2, KeyCode::KEY_3, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x3, KeyCode::KEY_4, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x5, KeyCode::KEY_5, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x4, KeyCode::KEY_6, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x26, KeyCode::KEY_7, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x28, KeyCode::KEY_8, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x25, KeyCode::KEY_9, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x29, KeyCode::KEY_0, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode::RawValue::0x27, KeyCode::RawValue::0x1b, ModifierFlag::SHIFT_L</autogen>
+      <!-- Overlay  zxcvbkm,./ onto the home row []-_=+|{}\ -->
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x6 , KeyCode::RawValue::0x21 </autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x7 , KeyCode::RawValue::0x1e </autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x8 , KeyCode::RawValue::0x1b </autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x9 , KeyCode::RawValue::0x1b, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0xb,  KeyCode::RawValue::0x18</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x2d,  KeyCode::RawValue::0x18, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x2e,  KeyCode::RawValue::0x2a, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x2b,  KeyCode::RawValue::0x21, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x2f,  KeyCode::RawValue::0x1e, ModifierFlag::SHIFT_L</autogen>
+      <autogen>__KeyToKey__ KeyCode:::RawValue::0x2c,  KeyCode::RawValue::0x2a</autogen>
+    </item>
+    <item>
+      <name>Hold Space+Key to active</name>
+      <identifier>private.remap.space_to_homerow_numbers</identifier>
+      <autogen>__KeyOverlaidModifier__ KeyCode::SPACE, KeyCode::VK_CONFIG_SYNC_KEYDOWNUP_notsave_private_homerow_numbers, KeyCode::SPACE</autogen>
+    </item>
+   </item>                                                   
+   <item>
+    <name>Shift+Delete to Caps Lock</name>
+    <identifier>private.remap.swap_Delete_to_caps_lock</identifier>
+    <autogen>__KeyToKey__ KeyCode:::RawValue::0x33, ModifierFlag::SHIFT_L, KeyCode::CAPSLOCK</autogen>
+  </item>
+
+</root>
