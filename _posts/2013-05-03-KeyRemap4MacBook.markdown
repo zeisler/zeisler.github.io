@@ -15,6 +15,7 @@ zxcvbkm,./ to []-_=+|{}
 {% endhighlight %}
 
 To use my setting replace or add to the private.xml file and them activate it.
-[Colemak Super Mode](/downloads/private.xml)
+
+[Download private.xml](/downloads/private.xml)
 
 [keyremap]: http://pqrs.org/macosx/keyremap4macbook/index.html.en)
