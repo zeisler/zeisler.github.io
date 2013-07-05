@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Timer App
 date: 2013-03-19
 tags: rails
-layout: post
 ---
 
 ![Timer app site](/images/blog/timer_app.png)
