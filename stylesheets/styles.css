@@ -10,6 +10,13 @@ a.title{
   text-decoration: none;
   color:#777;
 }
+#post_date{
+ width: 25%;
+display: inline-block;
+}
+#post_tile{
+
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
