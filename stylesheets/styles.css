@@ -6,6 +6,10 @@ body {
   color:#777;
   font-weight:300;
 }
+a.title{
+  text-decoration: none;
+  color:#777;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
