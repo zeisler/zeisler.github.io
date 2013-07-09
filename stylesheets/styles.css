@@ -6,6 +6,16 @@ body {
   color:#777;
   font-weight:300;
 }
+i{
+  display: inline-block !important;
+  width: 20px !important;
+  text-align: center;
+  color: black;
+  padding-right: 10px;
+}
+.view a:hover{
+  color:#00062c;
+}
 a.title{
   text-decoration: none;
   color:#777;
