@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "resume"
+title: Resume
 description: ""
 ---
+
 [Download pdf](resume.pdf)
 #SKILLS SUMMARY
 * Ruby
@@ -24,29 +25,30 @@ description: ""
 * Worked with client to design web-based e-commerce/CMS application from scratch including database design, security design, and user interface design
 * Created a secure user accounts by hashing/salting using client side javascript
 
-##Freelance Technical Support, Home/Small Business
+##Freelance Technical Support
 * Marketed business using Google Ad words to find client leads
 * Designed and implemented a long distance(3/4mile) wireless network in a treed area for residential client
 * Student, Mt Hood/ Portland Community College
 * Team leader for technical writing project to create visual/textual instruction to go along with a hypothetical product.
 * Wrote mock banking system with user/admin login in C++ using OOP design.
 
-##Certified Nursing Aid, Village HealthCare/Regence
+##Certified Nursing Aid
 * Expecting the needs/wants of clients before I was asked
 * Listening to problems and emotions then addressing solutions
 * Going beyond my job duties to support clients and the company
 * Finding self directed solutions before going to management
 * Taking instructions from Nurses and implementing medical procedures
 
-##Internship/Volunteer, Welcome Home Outreach
+##Internship/Volunteer
+### Welcome Home Outreach
 * Leading/Training volunteers in culture/protocol in rural Mexico town
 
 
 #GROUPS/EDUCATION
-* Phi Theta Kappa, Honor Society For two Colleges   2011-2013
-* Ruby Newbie/Hack + Help, Portland, OR   2013
-* Software Engineering, Mt Hood/ Portland Community College   2011- Current
-* Spanish Emersion Program, Antigua, Guatemala    6 months, 2008
+* Phi Theta Kappa, Honor Society 2011-2013
+* Ruby Newbie/Hack + Help, Portland, OR 2013
+* Software Engineering, Mt Hood/ Portland C. College 2011- Current
+* Spanish Immersion Program, Antigua, Guatemala 6 months, 2008
 
 
 
