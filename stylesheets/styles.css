@@ -265,6 +265,10 @@ footer {
   header ul {
     display:none;
   }
+  #post_date {
+
+display: inline;
+}
 }
 
 @media print {
