@@ -3,7 +3,7 @@ layout: post
 title: Sublime Ruby Markers
 description:
 category:
-tags: []
+tags: [ruby, sublime]
 ---
 
 
