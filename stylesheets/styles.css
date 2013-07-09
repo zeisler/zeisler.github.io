@@ -21,7 +21,7 @@ a.title{
   color:#777;
 }
 #post_date{
- width: 25%;
+ /*width: 25%;*/
 display: inline-block;
 }
 #post_tile{
@@ -265,10 +265,7 @@ footer {
   header ul {
     display:none;
   }
-  #post_date {
 
-display: inline;
-}
 }
 
 @media print {

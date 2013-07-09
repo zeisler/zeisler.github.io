@@ -34,7 +34,9 @@ description: ""
 * Jasmine (Testing)
 
 ## Timer App
-[Github](https://github.com/zeisler/timer) - [Demo](http://serene-sands-7788.herokuapp.com/)
+[Github](https://github.com/zeisler/timer) -
+ [Demo](http://serene-sands-7788.herokuapp.com/) -
+ [Blog Post](/2013/03/19/timer-app.html)
 * Rails/ruby
 * Ajax
 * jQuery/UI
