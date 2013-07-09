@@ -6,7 +6,7 @@ description: ""
 
 ##Scrabble
 [Github](https://github.com/zeisler/sinatra-scrabble) -
-[Demo](http://http://scrabble-game.herokuapp.com/) -
+[Demo](http://scrabble-game.herokuapp.com/) -
 [Blog Post](/2013/07/08/scrabble.html)
 * Dragable tiles, interactive, dynamic
 * Sinatra/ruby
