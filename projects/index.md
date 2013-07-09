@@ -5,7 +5,9 @@ description: ""
 ---
 
 ##Scrabble
-[Github](https://github.com/zeisler/sinatra-scrabble) - [Demo](http://http://scrabble-game.herokuapp.com/)
+[Github](https://github.com/zeisler/sinatra-scrabble) -
+[Demo](http://http://scrabble-game.herokuapp.com/) -
+[Blog Post](/2013/07/08/scrabble.html)
 * Dragable tiles, interactive, dynamic
 * Sinatra/ruby
 * MiniSpec (Testing)
@@ -15,7 +17,9 @@ description: ""
 * Twitter Bootstrap
 
 ## Critic Matcher
-[Github](https://github.com/ShaneDelmore/critic_critic) - [Demo](http://critic-critic.herokuapp.com/)
+[Github](https://github.com/ShaneDelmore/critic_critic) -
+[Demo](http://critic-critic.herokuapp.com/) -
+[Blog Post](http://localhost:4000/2013/07/05/critic-matcher.html)
 * Team Project
 * Rails/ruby
 * API to RottenTomatoes
