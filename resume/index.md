@@ -21,9 +21,9 @@ description: ""
 ##Portland Code School
 * Core contributor for movie recommendation service, built in Rails using movie rating API.
 * Created Scrabble game with a Sintra/js to validates words and keep track of score.
-* Developed user controls to alter a shape in realtime using angularjs and canvas
+* Developed web app using angularjs and canvas, lets user control 2d object.
 
-##Web Development NorthTechDefense.com
+##Web Developer - **NorthTechDefense.com**
 * Worked with client to design web-based e-commerce application including database, security, and user interface design
 * Built MySQL DB with 60,000 rows of addresses that I geocoded and made searchable through Google maps api
 * Created a secure user accounts by hashing/salting using client side javascript
@@ -37,23 +37,27 @@ description: ""
 * Wrote mock banking system with user/admin login in C++ using OOP design.
 
 ##Certified Nursing Aid
-* Expecting the needs/wants of clients before I was asked
-* Listening to problems and emotions then addressing solutions
 * Going beyond my job duties to support clients and the company
 * Finding self directed solutions before going to management
 * Taking instructions from Nurses and implementing medical procedures
 
-##Internship/Volunteer
-### Welcome Home Outreach
-* Leading/Training volunteers in culture/protocol in rural Mexico town
+#Volunteer
+* **Welcome Home Outreach**
 
-
-#GROUPS/EDUCATION
-* Phi Theta Kappa, Honor Society 2011-2013
+  * Leading/Training volunteers in culture/protocol in rural Mexico town
 * PDXNode/Javascript Admirers - 2013
 * Ruby Newbie/Hack + Help, Portland, OR 2013
+
+#EDUCATION
 * Software Engineering, Mt Hood/ Portland C. College 2011- Current
 * Spanish Immersion Program, Antigua, Guatemala 6 months, 2008
+
+#AWARDS
+* Phi Theta Kappa, Honor Society 2011-2013
+
+
+
+
 
 
 
