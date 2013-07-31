@@ -7,10 +7,10 @@ description: ""
 [Download pdf](resume.pdf)
 #SKILLS SUMMARY
 * Ruby (Rails/Sinatra)
-* Javascript  (Coffee/Type, Angularjs)
+* Javascript  (CoffeeScript/TypeScript)
+* Angularjs
+* HTML5 Canvas/CSS
 * SQL (Postgres/SQLite/MySQL)
-* Canvas
-* HTML/CSS
 * Unix Tools
 * Photoshop
 * Customer Service
@@ -23,7 +23,7 @@ description: ""
 * Created Scrabble game with a Sintra/js to validates words and keep track of score.
 * Developed user controls to alter a shape in realtime using angularjs and canvas
 
-##Web Development NorthTechDefence.com
+##Web Development NorthTechDefense.com
 * Worked with client to design web-based e-commerce application including database, security, and user interface design
 * Built MySQL DB with 60,000 rows of addresses that I geocoded and made searchable through Google maps api
 * Created a secure user accounts by hashing/salting using client side javascript
