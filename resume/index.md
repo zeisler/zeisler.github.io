@@ -9,12 +9,10 @@ description: ""
 * Ruby (Rails/Sinatra)
 * Javascript  (CoffeeScript/TypeScript)
 * Angularjs
-* HTML5 Canvas/CSS
+* HTML5 Canvas/CSS3
 * SQL (Postgres/SQLite/MySQL)
 * Unix Tools
-* Photoshop
-* Customer Service
-* Conversational Spanish
+# Git
 
 #EXPERIENCE HIGHLIGHTS
 
