@@ -27,7 +27,7 @@ description: ""
 * MiniSpec (Testing)
 
 ## Toggle Cells
-[Github](https://github.com/ShaneDelmore/ToggleCells)
+[Demo](http://dustinzeisler.com/ToggleCells/)[Github](https://github.com/ShaneDelmore/ToggleCells)
 * Pairing Project
 * Interactive Game
 * js/coffee
