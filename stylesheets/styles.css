@@ -19,6 +19,8 @@ i{
 a.title{
   text-decoration: none;
   color:#777;
+  font-size: 28px;
+
 }
 #post_date{
  /*width: 25%;*/
@@ -42,11 +44,13 @@ h1, h2, h3 {
 }
 
 h1 {
+  border-bottom: black dashed 1px;
   font-size:28px;
 }
 
 h2 {
   color:#393939;
+  font-size: 21px;
 }
 
 h3, h4, h5, h6 {
