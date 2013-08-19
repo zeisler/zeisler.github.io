@@ -50,8 +50,8 @@ Download -
 * Ruby Newbie/Hack + Help, Portland, OR 2013
 
 #OPEN SOURCE CONTRIBUTIONS
-* [mynyml/watchr](http://github.com/mynyml/watchr)
-* [searls/jasmine-rails ](http://github.com/searls/jasmine-rails )
+* [mynyml/watchr](https://github.com/mynyml/watchr/pull/53)
+* [searls/jasmine-rails ](https://github.com/searls/jasmine-rails/pull/58)
 
 #EDUCATION
 * Software Engineering, Mt Hood/ Portland C. College *2011 - 2013*
