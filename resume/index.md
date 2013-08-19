@@ -9,13 +9,10 @@ Download -
 [Word](resume.doc)
 
 #SKILLS SUMMARY
-* Ruby (Rails/Sinatra)
-* Javascript  (CoffeeScript/TypeScript)
-* Angularjs
-* HTML5 Canvas/CSS3
-* SQL (Postgres/SQLite/MySQL)
-* Unix Tools
-* Git
+* **Software Development:** Ruby, SQL, JavaScript, Coffeescript, Typescript
+* **Web Development:** Ruby on Rails, Sinatra, Angularjs, HTML5, Canvas, CSS3
+* **Tools:**  Unix tools, Git, Github, Heroku
+
 
 #EXPERIENCE HIGHLIGHTS
 
