@@ -23,15 +23,15 @@ Download -
 * Developed web app using Angularjs and html5 canvas, lets user control 2d object. [link](http://Dustinzeisler.com/canvas_project)
 * Migrated old PHP code base to Ruby on Rails for searching business locations through Google Maps. [link](https://Github.com/zeisler/ffl_locator)
 * Experience practiced pair programming during the development process.
-* Used Ruby on Rails to quickly seed 178,000 rows from CSV into SQLite for development and in production pushed to Heroku for seeding into Postgres DB.
-* Used Git version control to mange changes and branch new features.
+* Deployed  Ruby on Rails to quickly seed 178,000 rows from CSV into SQLite for development and in production pushed to Heroku for seeding into Postgres DB.
+* Implemented Git version control to mange changes and branch new features.
 * Actively used Github pushing code often and contributing to open source projects.
 
 
 ##Web Developer - **NorthTechDefense.com** - *9/2012 - 5/2013*
 * Worked with client to design PHP web-based e-commerce application including database, security, and user interface design.
 * Built MySQL DB with 60,000 rows of addresses, geocoded them and made searchable through Google Maps API.
-* Created a secure user accounts sign-up that hashed/salted passwords on the client in JavaScript, no user’s password were ever exposed in plan text.
+* Implemented security for user account signups involved hashed/salted passwords on the client in JavaScript; no passwords were ever exposed in plan text.
 
 
 ##Freelance Technical Support -  *2011 - 2012*
