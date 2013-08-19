@@ -54,6 +54,7 @@ Download -
 * [searls/jasmine-rails ](https://github.com/searls/jasmine-rails/pull/58)
 
 #EDUCATION
+* Portland Code School, Instructor Chuck Vose, Burnside Digital    *6/2013 - 8/2013*
 * Software Engineering, Mt Hood/ Portland C. College *2011 - 2013*
 * Spanish Immersion Program, Antigua, Guatemala *6 months, 2008*
 
