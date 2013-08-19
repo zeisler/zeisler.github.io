@@ -12,7 +12,7 @@ p.home_tag{
 }
 .head{
   float: left;
-  margin: 20px;
+  margin: 25px;
 }
 i{
   display: inline-block !important;
@@ -52,7 +52,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  border-bottom: black dashed 1px;
+  border-bottom: rgb(202, 202, 202) dashed 1px;
   font-size:28px;
 }
 
