@@ -6,6 +6,14 @@ body {
   color:#777;
   font-weight:300;
 }
+p.home_tag{
+  margin-left: 30px;
+  padding-left: 10px;
+}
+.head{
+  float: left;
+  margin: 20px;
+}
 i{
   display: inline-block !important;
   width: 20px !important;
