@@ -20,17 +20,22 @@ i{
   text-align: center;
   color: black;
   padding-right: 10px;
+
+}
+.view {
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+  -moz-transition: 0.25s;
 }
 .view a:hover{
   color:#00062c;
 }
+
 a.title{
   text-decoration: none;
   color:#777;
   font-size:36px;
 }
-
-
 
 
 #contact{
