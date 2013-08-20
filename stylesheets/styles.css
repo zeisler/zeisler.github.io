@@ -37,6 +37,12 @@ display: inline-block;
 #post_tile{
 
 }
+.page_title{
+  font-size: 34px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  border-left: solid black 1px;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -54,6 +60,7 @@ h1, h2, h3 {
 h1 {
   border-bottom: rgb(202, 202, 202) dashed 1px;
   font-size:28px;
+  color: rgb(95, 95, 95);
 }
 
 h2 {
