@@ -11,7 +11,7 @@ Download -
 #SKILLS SUMMARY
 * **Software Development:** Ruby, SQL, JavaScript, Coffeescript, Typescript
 * **Web Development:** Ruby on Rails, Sinatra, Angularjs, HTML5, Canvas, CSS3, Sass
-* **Tools:**  Unix tools, Git, Github, Heroku
+* **Tools/Process:** Unix tools, Git, Github, Heroku/Agile Development, TDD
 
 
 #EXPERIENCE HIGHLIGHTS
@@ -22,7 +22,7 @@ Download -
 * Redesigned Scrabble game using Object Oriented design and written completely in JavaScript. [link](https://Github.com/zeisler/scrabble)
 * Developed web app using Angularjs and html5 canvas, lets user control 2d object. [link](http://Dustinzeisler.com/canvas_project)
 * Migrated old PHP code base to Ruby on Rails for searching business locations through Google Maps. [link](https://Github.com/zeisler/ffl_locator)
-* Experience practiced pair programming during the development process.
+* Experience practicing pair programming during the development process.
 * Deployed  Ruby on Rails to quickly seed 178,000 rows from CSV into SQLite for development and in production pushed to Heroku for seeding into Postgres DB.
 * Implemented Git version control to mange changes and branch new features.
 * Actively used Github pushing code often and contributing to open source projects.
@@ -30,12 +30,12 @@ Download -
 
 ##Web Developer - **NorthTechDefense.com** - *9/2012 - 5/2013*
 * Worked with client to design PHP web-based e-commerce application including database, security, and user interface design.
-* Built MySQL DB with 60,000 rows of addresses, geocoded them and made searchable through Google Maps API.
-* Implemented security for user account signups involved hashed/salted passwords on the client in JavaScript; no passwords were ever exposed in plan text.
+* Built MySQL DB with 60,000 rows of addresses, geocoded and searchable through Google Maps API.
+* Implemented security for user account signups involving hashed/salted passwords on the client in JavaScript; no passwords were ever exposed in plan text.
 
 
 ##Freelance Technical Support -  *2011 - 2012*
-* Marketed business using Google Ad words to find client leads
+* Marketed business using Google Adwords to find client leads
 * Designed and implemented a long distance (3/4mile) wireless network in a treed area for residential client
 
 ## Student, Mt Hood/Portland Community College -   *2011 - 2013*
@@ -54,7 +54,7 @@ Download -
 * [searls/jasmine-rails ](https://github.com/searls/jasmine-rails/pull/58)
 
 #EDUCATION
-* Portland Code School, Instructor Chuck Vose, Burnside Digital    *6/2013 - 8/2013*
+* Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital    *6/2013 - 8/2013*
 * Software Engineering, Mt Hood/ Portland C. College *2011 - 2013*
 * Spanish Immersion Program, Antigua, Guatemala *6 months, 2008*
 
