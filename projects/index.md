@@ -7,7 +7,7 @@ description: ""
 
 
 [Github](https://github.com/zeisler/scrabble)
-* Includes test suit in Jasmine Specs
+* Includes test suite in Jasmine Specs
 * Has a pluggable interface for game play
 * Designed in CoffeeScript
 
