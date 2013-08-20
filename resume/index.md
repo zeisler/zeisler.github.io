@@ -10,7 +10,7 @@ Download -
 
 #SKILLS SUMMARY
 * **Software Development:** Ruby, SQL, JavaScript, Coffeescript, Typescript
-* **Web Development:** Ruby on Rails, Sinatra, Angularjs, HTML5, Canvas, CSS3
+* **Web Development:** Ruby on Rails, Sinatra, Angularjs, HTML5, Canvas, CSS3, Sass
 * **Tools:**  Unix tools, Git, Github, Heroku
 
 
