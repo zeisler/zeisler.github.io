@@ -10,7 +10,7 @@ DustinZeisler.com
 
 # Skill Summary
 
-* **Software Development:** Ruby, JavaScript, Coffeescript, SQL
+* **Software Development:** Ruby, JavaScript, CoffeeScript, SQL, Postgres
 * **Web Development:** Ruby on Rails, Rspec, Sinatra, Angularjs, HTML5, CSS3, Sass
 * **Tools/Process:** Unix tools, Git, Github, Continuous Intergration, TDD, Unit Testing
 
