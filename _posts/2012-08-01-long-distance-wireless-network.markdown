@@ -1,5 +1,5 @@
 ---
-title: Long Distance Network
+title: Long Distance Wireless Network
 date: 2012-08-1
 tags: Network DYI
 layout: post
