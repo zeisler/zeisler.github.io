@@ -4,19 +4,32 @@ title: "Projects"
 description: ""
 ---
 
-* [Scrabble/JavaScript](#scrabble_in_javascript)
-* [Scrabble/Sinatra](#scrabble_in_sinatra)
+* [ActiveMocker](#active-mocker)
+* [Voice Chapters](#voice-chapetrs)
+* [Scrabble/JavaScript](#scrabble-in-javascript)
+* [Scrabble/Sinatra](#scrabble-in-sinatra)
 * [Critic Matcher](#critic_matcher)
-* [Todo List/Angularjs](#todo_list_in_angularjs)
-* [Toggle Cells](#toggle_cells)
-* [Geo-location search](#geolocation_search)
-* [Timer App](#timer_app)
+* [Todo List/Angularjs](#todo-list-in-angularjs)
+* [Toggle Cells](#toggle-cells)
+* [Geo-location search](#geolocation-search)
+* [Timer App](#timer-app)
 
+# Active Mocker
 
+[Github](https://github.com/zeisler/active_mocker)
+
+Creates mocks classes from ActiveRecord models. Allowing your test suite to run very fast by not loading Rails a database. It parses the schema.rb and the defined methods on a model then generates a ruby file that can be included within a test. The mock file can be run by themselves and come with a partial implementation of ActiveRecord. Attributes and associations can be used just the same as in ActiveRecord. Methods will have the correct arguments but raise an NotImplementedError when called. Mocks are regenerated when the schema is modified so your mocks will not go stale; preventing the case where your units tests pass but production code fails.
+
+# Voice Chapters
+
+[Github](https://github.com/zeisler/voice_chapters)
+
+Using the Mac system text-to-speech Voice Chapters will create an audio file with bookmarked chapters. It takes a regex capture group to define the chapter markers and the gem will create a m4a/acc file.
 
 # Scrabble in JavaScript
 
 [Github](https://github.com/zeisler/scrabble)
+
 * Includes test suite in Jasmine Specs
 * Has a pluggable interface for game play
 * Designed in CoffeeScript
@@ -78,6 +91,7 @@ App saves user name and can save and delete list items. The data is persisted on
 
 [Demo](http://dustinzeisler.com/ToggleCells/) -
 [Github](https://github.com/ShaneDelmore/ToggleCells)
+
 * Pairing Project
 * Interactive Game
 * js/coffee
