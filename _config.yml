@@ -2,4 +2,4 @@ name: Dustin Zeisler
 
 safe: true
 lsi: false
-pygments: true
+highlighter: true
