@@ -1,56 +1,20 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" href="/stylesheets/font-awesome-ie7.min.css">
-    <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
+  {% include head.html %}
 
-    <link rel="stylesheet" href="/stylesheets/styles.css">
-    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <a href="/" class="title">{{ site.name }}</a>
-        <p class="view">Software Developer</p>
-        <p class="view"><i class="icon-tasks"></i><a href="/projects">Projects</a></p>
-        <p class="view"><a href="/resume"><i class="icon-file-text"></i>Resume</a></p>
-        <p class="view"><a href="/blog"><i class="icon-rss-sign"></i>Blog</a></p>
-        <p class="view"><a href="https://github.com/zeisler"><i class="icon-github"></i>GitHub</a></p>
-        <p class="view"><a href="https://twiter.com/dustinzeisler"><i class="icon-twitter"></i>Twitter</a></p>
-        <p class="view"><a href="http://linkedin.com/in/dzeisler"><i class="icon-linkedin"></i>Linkedin</a></p>
-        <br/>
-        <p class="view"><a id="contact" href="mailto:dustin@zeisler.net"><i class="icon-comments"></i>Contact Me</a></p>
-      </header>
-      <section>
-      <h2 class="page_title">{{ page.title }}</h2>
-      {{ content }}
 
-      </section>
-      <footer>
+    {% include header.html %}
 
-      </footer>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
-    <script src="/javascripts/scale.fix.js"></script>
-  <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39124525-1']);
-  _gaq.push(['_trackPageview']);
+    {% include footer.html %}
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
   </body>
+
 </html>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolating from Rails in a json Api
+title: Isolating from Rails with a json Api
 description: 
 category: 
 tags: []

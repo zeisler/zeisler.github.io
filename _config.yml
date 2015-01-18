@@ -1,5 +1,12 @@
-name: Dustin Zeisler
+# Site settings
+title: Dustin Zeisler
+email: dustinzeisler+dustinzeislercom@gmail.com
+display_email: dustinzeisler@gmail.com
+description: > #
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dustinzeisler.com" # the base hostname & protocol for your site
+twitter_username: dustinzeisler
+github_username:  zeisler
 
-safe: true
-lsi: false
-highlighter: true
+# Build settings
+markdown: kramdown
