@@ -17,7 +17,7 @@ DustinZeisler.com
 
 # Experience Highlights
 
-## Fiduciary Benchmarks ~ *9/2013 - Current*
+##Software Developer - **Fiduciary Benchmarks** ~ *9/2013 - Current*
 * Highly optimized a JSON api end points for large data sets.
 * Integrated Kendo Grid and Angular to create complex views of data. Including filterable, sortable, service-side/client-side, and CRUD applications.
 * Paired with co-workers on features while practicing test driven development.
@@ -25,7 +25,7 @@ DustinZeisler.com
 * Wrote utility class to read/export CSV file to/from ActiveRecord models.
 
 
-## Portland Code School ~ *6/2013 - 8/2013*
+##Resident - **Portland Code School** ~ *6/2013 - 8/2013*
 * Core contributor for movie recommendation site, built in Ruby on Rails using movie-rating API. [link](http://critic-critic.herokuapp.com)
 * Created Scrabble game with Sinatra and JavaScript to validates words and keep track of score. [link](http://scrabble-game.herokuapp.com)
 * Redesigned Scrabble game using Object Oriented design and written completely in JavaScript. [link](https://Github.com/zeisler/scrabble)
