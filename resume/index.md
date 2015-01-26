@@ -11,14 +11,15 @@ DustinZeisler.com
 # Skill Summary
 
 * **Software Development:** Ruby, JavaScript, CoffeeScript, SQL, Postgres
-* **Web Development:** Ruby on Rails, Rspec, Sinatra, Angularjs, HTML5, CSS3, Sass
-* **Tools/Process:** Unix tools, Git, Github, Continuous Intergration, TDD, Unit Testing
+* **Web Development:** Ruby on Rails, RSpec, Jasmine/Karma, Angularjs, HTML5, CSS3, Sass, Kendo-Grid
+* **Tools/Process:** Unix tools, Git, Github, Continuous Integration, Agile, TDD, Unit Testing
 
 
 # Experience Highlights
 
 ## Fiduciary Benchmarks ~ *9/2013 - Current*
-* Used the presenter pattern to create a multi-page web form with server-side ruby.
+* Highly optimized a JSON api end points for large data sets.
+* Integrated Kendo Grid and Angular to create complex views of data. Including filterable, sortable, service-side/client-side, and CRUD applications.
 * Paired with co-workers on features while practicing test driven development.
 * Embraced fast test by unit tested core logic outside of Ruby on Rails framework
 * Wrote utility class to read/export CSV file to/from ActiveRecord models.
