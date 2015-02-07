@@ -118,6 +118,28 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+    p {
+        quotes: "\201C""\201D""\2018""\2019";
+    }
+    
+}
+
+blockquote p:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
 }
 
 
