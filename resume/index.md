@@ -10,7 +10,7 @@ DustinZeisler.com
 
 # Skill Summary
 
-Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, Karma, Angularjs, HTML5, CSS3, Sass, Kendo, Amazon Web Services, Unix, Git, Github, TeamCity, LeanKit, Continuous Integration, Agile, TDD, Unit Testing, design patterns
+Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, Karma, Angularjs, HTML5, CSS3, Sass, Kendo, Amazon Web Services, Unix, Git, Github, Vagrant, TeamCity, LeanKit, Agile, TDD, Unit Testing, design patterns
 
 # Open Source
 **Maintainer**
