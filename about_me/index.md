@@ -13,7 +13,7 @@ description: ""
 
 <h2>What other are saying:</h2>
 
-<blockquote><p>Dustin is a brilliant engineer. He impressed me with his creative solutions. Dustin has a bright career ahead of him. View</p>
+<blockquote><p>Dustin is a brilliant engineer. He impressed me with his creative solutions. Dustin has a bright career ahead of him.</p>
 <span>- Dan Lamet, Technical Team Lead at Nike</span>
 </blockquote>
 
