@@ -22,7 +22,9 @@ Does this mean we should throw away browser testing all together? No, it can pro
 Your thoughts and feedback are welcome.
 
 ##References
+
 ###J. B. Rainsberger
+
 Integrated Tests are a Scam 
 * [Talk](https://vimeo.com/80533536)
 * [blog](http://blog.thecodewhisperer.com/2010/10/16/integrated-tests-are-a-scam)
