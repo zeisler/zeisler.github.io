@@ -35,30 +35,25 @@ Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, 
 ##Resident - **Portland Code School** ~ *6/2013 - 8/2013*
 * Core contributor for movie recommendation site, built in Ruby on Rails using movie-rating API. ([demo](http://critic-critic.herokuapp.com))
 * Created Scrabble game with Sinatra and JavaScript to validates words and keep track of score. ([demo](http://scrabble-game.herokuapp.com), [github](https://Github.com/zeisler/scrabble))
-* Developed web app using Angularjs and html5 canvas, lets user control 2d object. ([demo](http://Dustinzeisler.com/canvas_project))
 * Migrated old PHP code base to Ruby on Rails for searching business locations through Google Maps. ([github](https://Github.com/zeisler/ffl_locator))
 * Experience practicing pair programming during the development process.
-* Deployed Ruby on Rails to quickly seed 178,000 rows from CSV into SQLite for development and in production pushed to Heroku for seeding into Postgres DB.
-* Used Git version control to manage changes and branch new features.
-* Actively used Github pushing code often and contributing to open source projects.
 
 
 ##Web Developer - **NorthTechDefense.com** ~ *9/2012 - 5/2013*
-* Worked with client to design PHP web-based e-commerce application including database, security, and user interface design.
-* Using Google Maps API and MySQL I created 60,000 rows of geocoded searchable addresses.
-* Implemented security for user account login involving hashed and salted passwords on the client in JavaScript; never exposing passwords in transit or at rest in plan text.
+* Collaborated with client to design PHP e-commerce application including database, security, and UI.
+* Geocoded 60,000 rows of addresses for use with Google Maps API.
+* Implemented security for user account login involving hashed and salted passwords on the client in JavaScript.
 
 
 ## Mt Hood/Portland Community College ~ *2011 - 2013*
-* Team leader for technical writing project to create visual and textual instruction to go along with a hypothetical product.
-* Wrote mock banking system with user/admin login in C++ using OOP design.
+* Team leader for technical writing project to create visual/textual instruction.
+* Wrote mock banking app with user/admin login in C++.
 
 # Community Activities
 * Lead Weekly Ruby book club ~ *2015 - Current*
 * Attend Monthly PDX ruby meeting
 * **Welcome Home Outreach** ~ *4/2008 - 8/2008*
     * Leading and training volunteers in cultural etiquette and housing construction in rural Mexico.
-* Ruby Newbie/Hack + Help, Portland, OR 2013
 
 
 # Education
@@ -67,9 +62,6 @@ Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, 
 * Podcast/Video: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](http://twit.tv/show/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
 * Avid watcher of conference talks. Favorite presenters: [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
 * Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital    *6/2013 - 8/2013*
+   * Phi Theta Kappa, Honor Society
 * Software Engineering, Mt Hood/Portland Community College *2011 - 2013*
 * Spanish Immersion Program, Antigua, Guatemala *6 months, 2008*
-
-## AWARDS
-
-* Phi Theta Kappa, Honor Society *2011-2013*
