@@ -3,7 +3,6 @@ layout: default
 title: Resume
 description: ""
 ---
-
 DustinZeisler.com
 
 (503) 410-3119
@@ -24,8 +23,8 @@ Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, 
 * Collaborated with business to create benchmarking algorithms for 401k and other Investment accounts. 
 * Provided the business with dynamic documentation detailing how benchmarking results were derived.
 * Paired with co-workers on features while practicing test-driven-development.
-* Developed patterns for fast feedback tests by isolated core business logic from Rails and database access.
-* Wrote command line interface to manage reference data. Importing/exporting of CSV into/from the database using different strategies to handle error correction and speed.
+* Developed patterns for fast feedback tests by isolated core logic from Rails and database access.
+* Wrote command line interface developer tools.
 * Created image diffing tool to detect unexpected changes to high value PDF reports.
 * Optimized slow ruby code by analyzing object allocation, performance metrics, and memory usage.
 * Highly optimized JSON API using Ruby on Rails and PostgreSQL with large data sets.
@@ -33,16 +32,16 @@ Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, 
 
 
 ##Resident - **Portland Code School** ~ *6/2013 - 8/2013*
-* Core contributor for movie recommendation site, built in Ruby on Rails using movie-rating API. ([demo](http://critic-critic.herokuapp.com))
-* Created Scrabble game with Sinatra and JavaScript to validates words and keep track of score. ([demo](http://scrabble-game.herokuapp.com), [github](https://Github.com/zeisler/scrabble))
-* Migrated old PHP code base to Ruby on Rails for searching business locations through Google Maps. ([github](https://Github.com/zeisler/ffl_locator))
-* Experience practicing pair programming during the development process.
+* Metored Students through pair programming.
+* Core contributor for movie recommendation site using movie-rating API. ([demo](http://critic-critic.herokuapp.com))
+* Created Scrabble game for web that validates words and track score. ([demo](http://scrabble-game.herokuapp.com), [github](https://Github.com/zeisler/scrabble))
+* Migrated legacy PHP app (business locations finder) to Ruby on Rails([github](https://Github.com/zeisler/ffl_locator))
 
 
 ##Web Developer - **NorthTechDefense.com** ~ *9/2012 - 5/2013*
 * Collaborated with client to design PHP e-commerce application including database, security, and UI.
 * Geocoded 60,000 rows of addresses for use with Google Maps API.
-* Implemented security for user account login involving hashed and salted passwords on the client in JavaScript.
+* Implemented security for user account login involving hashed and salted passwords.
 
 
 ## Mt Hood/Portland Community College ~ *2011 - 2013*
