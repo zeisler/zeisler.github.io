@@ -4,6 +4,7 @@ date: 2015-06-06
 tags: testing, TDD, integration, isolated
 layout: post
 comments: true
+email_sign_up: true
 ---
 End-to-end testing, if you let it, will suck the life out of you. Tools like [Capybara](https://github.com/jnicklas/capybara) and [PhantomJs](http://phantomjs.org/) provide an easy way to test from the user's prospective. When I started using these tools initially I didn't like how long they took to run. I thought then that if we could just make these tools faster they would be the best option to test a web app. Then I ran into other issues where sometimes these tests would be unreliable, failing at random times, making me feel uncertain of whether it was just the test's flakiness or the new feature I had just added. So I would end up adding `sleep` to give them a better chance of passing and sometimes I would end up deleting them because they were wasting my time. 
 

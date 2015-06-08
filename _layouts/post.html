@@ -11,6 +11,11 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+  {% if page.email_sign_up %}
+  {% include email_sign_up.html %}
+  {% endif %}
+
   {% if page.comments %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -28,3 +33,4 @@ layout: default
   {% endif %}
 
 </div>
+
