@@ -3,6 +3,8 @@ layout: default
 title: Resume
 description: ""
 ---
+[Download PDF](resume.pdf)
+
 [DustinZeisler.com](http://dustinzeisler.com)
 (503) 410-3119
 
