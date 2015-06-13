@@ -8,7 +8,7 @@ description: ""
 
 # Skill Summary
 
-Ruby, JavaScript, CoffeeScript, SQL, PostgreSQL, Ruby on Rails, RSpec, Jasmine, Karma, Reactjs, Angularjs, HTML5, CSS3, Sass, Kendo, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, Object Oriented Design
+Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, PostgreSQL, Jest, Jasmine, Karma, HTML5, CSS3, Sass, Kendo, Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design
 
 # Open Source
 
