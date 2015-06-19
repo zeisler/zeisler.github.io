@@ -50,7 +50,7 @@ def present(api_action)
 end
 {% endhighlight %}
 
-Method present, which located in the parent controller class, calls the proc and degates the response and status to the Rails render.
+Method present, which located in the parent controller class, calls the proc and delegates the response and status to the Rails render.
 
 Here is a simple example of inside a business logic class.
 
