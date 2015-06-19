@@ -1,7 +1,6 @@
 ---
 title: End-To-End Tests Suck
 date: 2015-06-06
-category: testing
 tags: testing, TDD, integration, isolated
 layout: post
 comments: true
