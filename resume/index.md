@@ -1,4 +1,4 @@
----
+<!-----
 layout: default
 title: Resume
 description: ""
@@ -10,7 +10,7 @@ description: ""
 
 # Skill Summary
 
-Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, PostgreSQL, Jest, Jasmine, Karma, HTML5, CSS3, Sass, Kendo, Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design
+Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, PostgreSQL, Jest, Jasmine, Karma, HTML5, CSS3, Sass, Kendo, Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming
 
 # Open Source
 
@@ -54,7 +54,7 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, P
 # Education
 
 * Learning every day! 
-* Podcasts/Videos: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](http://twit.tv/show/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
+* Podcasts/Videos: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](https://twit.tv/shows/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
 * Avid watcher of conference talks. Favorite presenters: [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
 * Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital    *6/2013 - 8/2013*
 * Software Engineering, Mt Hood/Portland Community College *2011 - 2013*
