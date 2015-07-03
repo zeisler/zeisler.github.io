@@ -6,6 +6,7 @@ description: ""
 
 * [ActiveMocker](#active-mocker)
 * [Voice Chapters](#voice-chapetrs)
+* [Credit Card Processor](#credit-card-processor)
 * [Scrabble/JavaScript](#scrabble-in-javascript)
 * [Scrabble/Sinatra](#scrabble-in-sinatra)
 * [Critic Matcher](#critic_matcher)
@@ -25,6 +26,13 @@ Creates mocks classes from ActiveRecord models. Allowing your test suite to run 
 [Github](https://github.com/zeisler/voice_chapters)
 
 Using the Mac system text-to-speech Voice Chapters will create an audio file with bookmarked chapters. It takes a regex capture group to define the chapter markers and the gem will create a m4a/acc file.
+
+# Credit Card Processor
+
+[Github](https://github.com/zeisler/credit_card_processor)
+
+Basic credit card processing cli application. Takes input from stdin or from file. Validates card numbers via Luhn. Designed at the core with immutable entities.
+
 
 # Scrabble in JavaScript
 
