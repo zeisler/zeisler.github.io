@@ -10,16 +10,24 @@ description: ""
 
 # Skill Summary
 
-Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, PostgreSQL, Jest, Jasmine, Karma, HTML5, CSS3, Sass, Kendo, Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming
+Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, SQL, PostgreSQL, Jest, Jasmine, Karma, HTML5, CSS3, Sass, Kendo, Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming
 
 # Open Source
 
- * **Maintainer** - [active_mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity when testing code that has database interactions.
+ * **Maintainer** - [active_mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
 
 
-# Experience Highlights
+# Experience
 
-##Software Developer - **Fiduciary Benchmarks** *9/2013 - Current*
+##Software Developer - **Cambia/SpendWell Health** *6/2015 - 9/2015*
+
+* Trained team on Test Driven Development by giving presentations and one-on-one pairing.
+* Led development/architected a multi step guided search app for health care using Reactjs.
+* Implemented React Router to make a fully bookmarkable client side app.
+* Used the flux pattern to create unidirectional data flow between components.
+* Increased team productivity by creating understandable and tested code.
+
+##Software Developer - **Fiduciary Benchmarks** *9/2013 - 2015*
 * Built and architected rails project from ground up.
 * Collaborated with business to create benchmarking algorithms for 401k and other Investments. 
 * Provided the business with dynamic documentation on how benchmarking results were derived.
@@ -29,15 +37,12 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, P
 * Created image diffing tool to detect unexpected changes to high value PDF reports.
 * Optimized slow ruby code by analyzing object allocation, performance, and memory usage.
 * Highly optimized JSON API using Ruby on Rails and PostgreSQL with large data sets.
-* Designed complex views of data that allowed manipulating, filtering and sorting of records.
-
 
 ##Resident - **Portland Code School** *6/2013 - 8/2013*
 * Mentored Students through pair programming.
 * Core contributor for movie recommendation site using movie-rating API. ([demo](http://critic-critic.herokuapp.com))
 * Created Scrabble game for web that validates words and track score. ([demo](http://scrabble-game.herokuapp.com), [github](https://Github.com/zeisler/scrabble))
 * Migrated legacy PHP app (business locations finder) to Ruby on Rails([github](https://Github.com/zeisler/ffl_locator))
-
 
 ##Web Developer - **NorthTechDefense.com** *9/2012 - 5/2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
@@ -49,7 +54,6 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Angularjs, CoffeeScript, SQL, P
 * Attend Monthly PDX ruby meeting
 * Welcome Home Outreach - *4/2008 - 8/2008*
 	* Leading and training volunteers in cultural etiquette and housing construction in rural Mexico.
-
 
 # Education
 
