@@ -1,7 +1,7 @@
 ---
 layout: github
-title: "Resume"
-description: "Dustin Zeisler - Resume: Senior Ruby/JavaScript Developer"
+title: Resume
+description: "Resume: Senior Ruby/JavaScript Developer"
 ---
 
 # Dustin Zeisler
