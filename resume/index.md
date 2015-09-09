@@ -8,7 +8,7 @@ description: "Dustin Zeisler - Resume: Senior Ruby/JavaScript Developer"
 
 ### Senior Ruby/JavaScript Developer
 
-[Blog](http://dustinzeisler.com) | [Portfolio](http://dustinzeisler.com/projects/index.html) | [Github](https://github.com/zeisler) | [Twitter](https://twitter.com/zeisler) | [LinkedIn](https://www.linkedin.com/in/dzeisler) | [Email](mailto:dustinzeisler@gmail.com)<br />(503) 410-3119
+[Blog](http://dustinzeisler.com) &#124; [Portfolio](http://dustinzeisler.com/projects/index.html) &#124; [Github](https://github.com/zeisler) &#124; [Twitter](https://twitter.com/zeisler) &#124; [LinkedIn](https://www.linkedin.com/in/dzeisler) &#124; [Email](mailto:dustinzeisler@gmail.com)<br />(503) 410-3119
 
 ## Skill Summary
 
