@@ -2,7 +2,8 @@ html,body{color:black}#wrapper{font:16px helvetica,arial,freesans,clean,sans-ser
 #mkreplaced-toc{list-style-position:inside;padding:0;margin:0 0 0 1rem;list-style-type:none}#mkreplaced-toc li::before{content:''}#mkreplaced-toc li{font-size:1.5rem;line-height:1.5;font-weight:normal}#mkreplaced-toc li ul{font-size:1.3rem;font-weight:300;padding:.5rem 0;margin:0 0 0 1rem}#mkreplaced-toc li.missing{list-style-type:none !important}#mkreplaced-toc.max-1 ul,#mkreplaced-toc.max1 ul{display:none}#mkreplaced-toc.max-2 ul ul,#mkreplaced-toc.max2 ul ul{display:none}#mkreplaced-toc.max-3 ul ul ul,#mkreplaced-toc.max3 ul ul ul{display:none}#mkreplaced-toc.max-4 ul ul ul ul,#mkreplaced-toc.max4 ul ul ul ul{display:none}#mkreplaced-toc.max-5 ul ul ul ul ul,#mkreplaced-toc.max5 ul ul ul ul ul{display:none}
 
 @media print{
-#wrapper #generated-toc-clone,#generated-toc{display:none!important}
+    #wrapper #generated-toc-clone,#generated-toc{display:none!important}
+    a:link:after, a:visited:after { content:" [" attr(href) "] "; }
 }
 #wrapper #generated-toc-clone, #wrapper #mkreplaced-toc, #wrapper #generated-toc-clone ul, #wrapper #mkreplaced-toc ul {
     list-style-position: inside
