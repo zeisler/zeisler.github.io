@@ -8,7 +8,14 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 
 ### Senior Ruby/JavaScript Developer
 
-[Blog](http://dustinzeisler.com) &#124; [Portfolio](http://dustinzeisler.com/projects/index.html) &#124; [Github](https://github.com/zeisler) &#124; [Twitter](https://twitter.com/dustinzeisler) &#124; [LinkedIn](https://www.linkedin.com/in/dzeisler) &#124; [Email](mailto:dustinzeisler@gmail.com)<br />(503) 410-3119
+* [Blog](http://dustinzeisler.com)
+* [Portfolio](http://dustinzeisler.com/projects)
+* [Github](https://github.com/zeisler)
+* [Twitter](https://twitter.com/dustinzeisler)
+* [LinkedIn](https://www.linkedin.com/in/dzeisler)
+* [Email](mailto:dustinzeisler@gmail.com)
+<br />(503) 410-3119
+{: .personal-links}
 
 ## Skill Summary
 
@@ -16,8 +23,8 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 
 ## Open Source Creations
 
- * [active_mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
- * [dissociated_introspection](https://github.com/zeisler/dissociated_introspection): Introspect methods, parameters, class macros, and constants without loading a parent class or any other dependencies.
+ * [Active Mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
+ * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Introspect methods, parameters, class macros, and constants without loading a parent class or any other dependencies.
 
 ## Experience
 
@@ -44,9 +51,8 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 ###Resident - **Portland Code School** *6/2013 - 8/2013*
 
 * Mentored Students through pair programming.
-* Core contributor for movie recommendation site using movie-rating API. ([demo](http://critic-critic.herokuapp.com))
-* Created Scrabble game for web that validates words and tracks score. ([demo](http://scrabble-game.herokuapp.com), [github](https://Github.com/zeisler/scrabble))
-* Migrated legacy PHP app (business locations finder) to Ruby on Rails([github](https://Github.com/zeisler/ffl_locator))
+* Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
+* Created [Scrabble game](http://scrabble-game.herokuapp.com) for web that validates words and tracks score.
 
 ###Web Developer - **NorthTechDefense.com** *9/2012 - 5/2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
@@ -57,14 +63,14 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 
 * Lead Weekly Ruby Book Club - *2015 - Current*
 * Attend Monthly PDX Ruby meeting
-* Welcome Home Outreach - *4/2008 - 8/2008*
+* Cultural Guide For Non-Profit in Mexico - *4/2008 - 8/2008*
 	* Leading and training volunteers in cultural etiquette and housing construction in rural Mexico.
 
 ## Education
 
 * Learning every day! 
 * Podcasts/Videos: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](https://twit.tv/shows/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
-* Avid watcher of conference talks. Favorite presenters: [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
+* Avid watcher of conference talks. Favorite presenters:  [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
 * Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital    *6/2013 - 8/2013*
 * Software Engineering, Mt Hood/Portland Community College *2011 - 2013*
 * Phi Theta Kappa, Honor Society
