@@ -102,7 +102,7 @@ task :pdf do
       r.each do |line|
         print line
         if line.chomp =~ /127.0.0.1:4000/
-          `wkhtmltopdf --zoom .75 -l http://localhost:4000/resume resume/dustin_zeisler.pdf`
+          `wkhtmltopdf --zoom .75 -l --user-style-sheet css/pdf.css http://localhost:4000/resume resume/dustin_zeisler.pdf`
           Process.kill("HUP", pid)
         end
       end

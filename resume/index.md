@@ -4,6 +4,9 @@ title: Resume
 description: "Resume: Senior Ruby/JavaScript Developer"
 ---
 
+[Download PDF](./dustin_zeisler.pdf)
+{: .hidden-pdf .hidden-print}
+
 # Dustin Zeisler
 
 ### Senior Ruby/JavaScript Developer
@@ -53,6 +56,8 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 * Mentored Students through pair programming.
 * Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
 * Created [Scrabble game](http://scrabble-game.herokuapp.com) for web that validates words and tracks score.
+
+{: .page-break}
 
 ###Web Developer - **NorthTechDefense.com** *9/2012 - 5/2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
