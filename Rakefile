@@ -94,6 +94,24 @@ task :page do
   end
 end # task :page
 
+desc "Create pdfs"
+task :pdf do
+  require "pty"
+  begin
+    PTY.spawn("jekyll serve") do |r, w, pid|
+      r.each do |line|
+        print line
+        if line.chomp =~ /127.0.0.1:4000/
+          `wkhtmltopdf --zoom .75 -l http://localhost:4000/resume resume/dustin_zeisler.pdf`
+          Process.kill("HUP", pid)
+        end
+      end
+    end
+  rescue PTY::ChildExited => e
+    puts "The child process exited!"
+  end
+end
+
 desc "Launch preview environment"
 task :preview do
   system "jekyll serve --watch "
