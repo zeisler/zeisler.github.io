@@ -27,33 +27,34 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 ## Open Source Creations
 
  * [Active Mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
- * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Introspect methods, parameters, class macros, and constants without loading a parent class or any other dependencies.
+ * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Introspect methods, parameters, and constants without loading a parent class or other dependencies.
 
 ## Experience
 
 ###Software Developer - **Cambia/SpendWell Health** *6/2015 - 9/2015*
 
-* Trained team on Test Driven Development by giving presentations and one-on-one training.
-* Led development and architected a multi step guided search app for health care, using Reactjs.
-* Implemented React Router to make a fully bookmarkable client side app.
-* Used the flux pattern to create unidirectional data flow between components.
 * Increased team productivity by creating understandable and tested code.
+* Trained team on Test Driven Development by giving presentations and through one-on-one training.
+* After learning Reactjs I led the development of a multi faceted guided search for health care products/services.
+* Created a fully Restful client side app using open source software, React Router.
+* Used the flux pattern increase understandability by letting data flow in one direction between components.
 
 ###Software Developer - **Fiduciary Benchmarks** *9/2013 - 2015*
 
+* Increased automated test speed by 10x compared to normal Rails testing practices.
 * Built and architected rails project from the ground up.
-* Collaborated with business to create benchmarking algorithms for 401k and other Investments. 
+* Collaborated with business to create benchmarking algorithms for 401k and other Investments.
+* Made complex features easier for developers and business to iterate on top of.
 * Provided the business with dynamic documentation on how benchmarking results were derived.
+* Improved team productivity by automating tasks into command line tools.
 * Paired with co-workers on features while practicing test-driven-development.
-* Developed patterns for fast tests by isolated core logic from Rails and database access.
-* Wrote command line interface developer tools.
-* Created image diffing tool to detect unexpected changes to high value PDF reports.
+* Created an image comparison tool to detect unexpected changes to high value PDF reports.
 * Optimized slow Ruby code by analyzing object allocation, performance, and memory usage.
-* Highly optimized JSON API using Ruby on Rails and PostgreSQL with large data sets.
+* Optimized JSON API from responding in seconds to responding in milliseconds by dynamically transforming relational data into JSON within PostgreSQL.
 
 ###Resident - **Portland Code School** *6/2013 - 8/2013*
 
-* Mentored Students through pair programming.
+* Mentored Students by pair programming, assisting in basic programming literacy, and working with students on personal and group projects.
 * Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
 * Created [Scrabble game](http://scrabble-game.herokuapp.com) for web that validates words and tracks score.
 
@@ -61,22 +62,25 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 
 ###Web Developer - **NorthTechDefense.com** *9/2012 - 5/2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
-* Geocoded 60,000 rows of addresses for use with Google Maps API.
+* Geocoded 60,000 rows of addresses for use with Google Maps API and created.
 * Implemented security for user account login involving hashed and salted passwords.
 
 ## Community Activities
 
 * Lead Weekly Ruby Book Club - *2015 - Current*
-* Attend Monthly PDX Ruby meeting
-* Cultural Guide For Non-Profit in Mexico - *4/2008 - 8/2008*
+    * [Practical Object-Oriented Design](http://www.poodr.com/), 
+    [Confident Ruby](http://www.confidentruby.com/), 
+    [Metaprogramming Ruby](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2),
+    [Working with Ruby Threads](http://www.jstorimer.com/products/working-with-ruby-threads)
+* Attend Monthly PDX Ruby meetings
+* Cultural Guide For Non-Profit in Mexico - *2008*
 	* Leading and training volunteers in cultural etiquette and housing construction in rural Mexico.
 
 ## Education
 
-* Learning every day! 
 * Podcasts/Videos: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](https://twit.tv/shows/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
-* Avid watcher of conference talks. Favorite presenters:  [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
-* Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital    *6/2013 - 8/2013*
+* Avid watcher of conference talks. Favorite presenters:  [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Avdi Grimm](http://confreaks.tv/presenters/avdi-grimm), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
+* Portland Code School, Instructor Chuck Lauer Vose, Burnside Digital *6/2013 - 8/2013*
 * Software Engineering, Mt Hood/Portland Community College *2011 - 2013*
 * Phi Theta Kappa, Honor Society
 * Spanish Immersion Program, Antigua, Guatemala *6 months, 2008*
