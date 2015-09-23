@@ -31,7 +31,7 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 
 ## Experience
 
-###Software Developer - **Cambia/SpendWell Health** *6/2015 - 9/2015*
+###Software Developer, Contractor - **Cambia/SpendWell** *6/2015 - 9/2015*
 
 * Increased team productivity by creating understandable and tested code.
 * Trained team on Test Driven Development by giving presentations and through one-on-one training.
@@ -39,7 +39,7 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 * Created a fully Restful client side app using open source software, React Router.
 * Used the flux pattern increase understandability by letting data flow in one direction between components.
 
-###Software Developer - **Fiduciary Benchmarks** *9/2013 - 2015*
+###Software Developer - **Fiduciary Benchmarks** *2013 - 2015*
 
 * Increased automated test speed by 10x compared to normal Rails testing practices.
 * Built and architected rails project from the ground up.
@@ -60,7 +60,7 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 
 {: .page-break}
 
-###Web Developer - **NorthTechDefense.com** *9/2012 - 5/2013*
+###Web Developer - **NorthTechDefense.com** *2012 - 2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
 * Geocoded 60,000 rows of addresses for use with Google Maps API and created.
 * Implemented security for user account login involving hashed and salted passwords.
