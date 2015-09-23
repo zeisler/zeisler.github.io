@@ -27,7 +27,7 @@ Ruby, JavaScript, Ruby on Rails, RSpec, Reactjs, Flux, Angularjs, CoffeeScript, 
 ## Open Source Creations
 
  * [Active Mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
- * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Introspect methods, parameters, and constants without loading a parent class or other dependencies.
+ * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Inspect methods, parameters, and constants without loading dependencies.
 
 ## Experience
 
