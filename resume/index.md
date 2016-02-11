@@ -70,12 +70,12 @@ Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (test
 * Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
 * Created [Scrabble game](http://scrabble-game.herokuapp.com) for web that validates words and tracks score.
 
-####Web Developer - **NorthTechDefense.com** *2012 - 2013*
+#### Web Developer - **NorthTechDefense.com** *2012 - 2013*
 * Collaborated with client to design e-commerce application including database, security, and UI.
 * Geocoded 60,000 rows of addresses for use with Google Maps API and created.
 * Implemented security for user account login involving hashed and salted passwords.
 
-###- Community Activities -
+### - Community Activities -
 
 * *PDX Test Ruby* presenter - [Active Mocker: Mocking ActiveRecord](http://testrubypdx.org/talks/2)
 * Lead Weekly *Ruby Book Club* - *2015 - 2016*
@@ -87,7 +87,7 @@ Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (test
 * Cultural Guide For Non-Profit in Mexico - *2008*
 	* Leading and training volunteers in cultural etiquette and housing construction in rural Mexico.
 
-###- Education -
+### - Education -
 
 * Podcasts/Videos: [Ruby Rogues](http://devchat.tv/ruby-rogues/), [Ruby Tapas](http://www.rubytapas.com), [Security Now](https://twit.tv/shows/security-now), [Bike Shed](http://bikeshed.fm), [Debug](http://www.imore.com/debug)
 * Avid watcher of conference talks. Favorite presenters:  [Sandi Metz](http://confreaks.tv/presenters/sandi-metz), [Avdi Grimm](http://confreaks.tv/presenters/avdi-grimm), [Uncle Bob]( http://youtu.be/YX3iRjKj7C0 )
