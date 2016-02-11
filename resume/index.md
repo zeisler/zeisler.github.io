@@ -20,11 +20,11 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 * (503) 410-3119
 {: .personal-links}
 
-###- Skill Summary -
+### - Skill Summary -
 
 Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (testing frameworks), Rake, Thor, Bundler, Amazon Web Services, Unix, Git, Github, Mercurial, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming
 
-###- Open Source -
+### - Open Source -
 
 ####Creations
 
