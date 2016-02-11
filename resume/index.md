@@ -26,7 +26,7 @@ Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (test
 
 ### - Open Source -
 
-####Creations
+#### Creations
 
  * [Active Mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
  * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Inspect methods, parameters, and constants without loading dependencies.
@@ -37,21 +37,21 @@ Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (test
 #### Contributions
  * [Rory](https://github.com/screamingmuse/rory/pull/14): Created rack middleware to extract request headers to provide in any logging service.
  
-###- Client Experience -
+### - Client Experience -
 
 #### Software Developer, Contractor - **Renew Financial** *10/2015 - current*
  * Adapted legacy loan auto decision engine to source from different credit bureaus by creating models to answer abstract questions without caring about the source data structure.
  * Planned and executed request uuid logging to track a request in a micro-services environment.
  * Envisioned developer dsl to create high-level business documentation of system rules. 
 
-####Software Developer, Contractor - **Cambia/SpendWell** *6/2015 - 9/2015*
+#### Software Developer, Contractor - **Cambia/SpendWell** *6/2015 - 9/2015*
 
 * Increased team productivity by creating understandable, tested, documented code.
 * Trained team on Test Driven Development by giving presentations and through one-on-one training.
 * After learning Reactjs I led the development of a multi faceted-guided search for health care products/services.
 * Created a fully Restful client side app using React Router.
 
-####Software Developer - **Fiduciary Benchmarks** *2013 - 2015*
+#### Software Developer - **Fiduciary Benchmarks** *2013 - 2015*
 
 * Increased automated test speed by 10x compared to normal Rails testing practices.
 * Collaborated with business to create benchmarking algorithms for 401k and other Investments.
@@ -64,7 +64,7 @@ Ruby (Rails, meta-programing), RSpec, Reactjs, SQL, PostgreSQL, Javascript (test
 
 {: .page-break}
 
-####Resident - **Portland Code School** *6/2013 - 8/2013*
+#### Resident - **Portland Code School** *6/2013 - 8/2013*
 
 * Mentored Students by pair programming, assisting in basic programming literacy, and working with students on personal and group projects.
 * Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
