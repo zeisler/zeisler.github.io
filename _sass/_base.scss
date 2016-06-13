@@ -233,3 +233,33 @@ pre {
         }
     }
 }
+
+.company_name {
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.4;
+    color: #333;
+    margin-bottom: 5px;
+    float: left;
+    width: 75%;
+}
+
+.company_duration {
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.4;
+    color: #333;
+    margin-bottom: 5px;
+    float: right;
+}
+
+
+.company_title {
+    font-weight: 700;
+    line-height: 1.4;
+    color: #333;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    clear: both;
+}
