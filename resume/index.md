@@ -22,9 +22,9 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 
 ### - Skill Summary -
 
-Expert Ruby Developer - (Rails, Rack, Metaprogramming, Threads, RSpec, SQL, Rake, Thor, Bundler, Gems)<br/>
+Expert Ruby Developer - (Rails, Rack, Metaprogramming, Threads, RSpec, Rake, Thor, Bundler, Gems)<br/>
 Javascript - (Jasmine, Reactjs, Unidirectional data flow)
-Unix, Git, Github, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming, PostgreSQL
+Unix, PostgreSQL, SQL, Git, Github, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming 
 
 ### - Open Source -
 
