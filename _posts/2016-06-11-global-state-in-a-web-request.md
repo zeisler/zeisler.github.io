@@ -8,9 +8,9 @@ tags: [ruby, threads, web, rails]
 
 I’m going to be talking about the global state in the context of a web request. When a request comes in it will be running within a thread. That thread exists for the life of the request. If you want to store some state in the context of that thread you can use thread local variables. 
 
-~~~ruby
+{% highlight ruby %}
  Thread.current["name"] = "A"
-~~~
+{% endhighlight %}
 
 [ruby-doc.org](http://ruby-doc.org/core-2.3.1/Thread.html#method-i-5B-5D)
 
@@ -24,7 +24,7 @@ See [ActionDispatch::RequestId](https://github.com/rails/rails/blob/51a759a745b0
 This solution works great for most common use cases, but if you spin up your own threads in a request the thread local variable state will not transfer to child spawned threads. The state will need to be copied to the new thread instance in order to retain the same logging context as the parent thread. It’s usually helpful when 'Things Just Work'™ and you or a team of developers do not need to remember to add special code that only applies to your specific stack. Besides that, in code that you don’t own like third party Gems, you can’t go in and change their code directly.  In comes Thread Inheritable Attributes, it provides an API to set thread local variables that then get inherited by any child spawned threads. Problem solved. 
 
 
-~~~ruby
+{% highlight ruby %}
 require "thread/inheritable_attributes"
 
 Thread.current.set_inheritable_attribute(:request_id, SecureRandom.uuid)
@@ -35,7 +35,7 @@ thread = Thread.new {
 thread.join
 thread.value
   #=> "80f58e0f-0564-487d-8f92-4cff8237af24"
-~~~
+{% endhighlight %}
 
 This Gem is production ready. Used in multiple production environments since the beginning of 2016 without issues.
 
