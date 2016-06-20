@@ -41,6 +41,11 @@ This Gem is production ready. Used in multiple production environments since the
 
 [Github Repo](https://github.com/zeisler/thread-inheritable_attributes)
 
+*Update 2016-6-20*
+
+In the context of a multi-threaded web server anything stored on `Thread.current#[]` could hang around to subsequent requests. This is because some multi-threaded web server will reuse a thread after a request is complete.
+I have made [request_store](https://github.com/steveklabnik/request_store) is an optional dependency. It will clear it's state at the end of a request. Unless your are manually reinitializing or clearing the state in your own Rack Middleware (at the start of a request) it is recommended that you also include the request_store gem.
+
 -------
 
 To learn more about Threads in Ruby I highly recommend the book ["Working with Ruby Threads" - by Jesse Storimer](https://pragprog.com/book/jsthreads/working-with-ruby-threads) 
