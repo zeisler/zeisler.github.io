@@ -23,8 +23,9 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 ### - Skill Summary -
 
 Expert Ruby Developer - (Rails, Rack, Metaprogramming, Threads, RSpec, Rake, Thor, Bundler, Gems)<br/>
-Javascript - (Jasmine, Reactjs, Unidirectional data flow)
-Unix, PostgreSQL, SQL, Git, Github, Vagrant, Continuous Integration, TeamCity, LeanKit, JIRA, Agile, TDD, BDD, Isolated Unit Testing, Design Patterns, MVC, Object Oriented Design, Pair Programming 
+Javascript - (Jasmine, Reactjs, Flux, Unidirectional data flow)
+Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, LeanKit, JIRA
+Pair Programming, Agile, TDD, BDD, Isolated Unit Testing, Continuous Integration, Design Patterns, Object Oriented Design
 
 ### - Open Source -
 
@@ -55,8 +56,9 @@ Senior Software Developer - [40% Remote]
  * Adapted legacy loan auto decision engine to be credit bureau agnostic.
  * Planned and executed [mapped diagnostic context logging](http://veerasundar.com/blog/2009/10/log4j-mdc-mapped-diagnostic-context-what-and-why/)
   to track requests in a micro-services environment.
- * Envisioned/created a [developer DSL](https://github.com/zeisler/markdown_ruby_documentation)
-  for creating high-level business documentation that lives in the implementation code.
+ * Envisioned/created a [DSL](https://github.com/zeisler/markdown_ruby_documentation)
+  for high-level business docs that live in the implementation code.
+ * Provided major contributions to a company internal  [ web framework](https://github.com/screamingmuse/rory).
  
 Cambia/SpendWell
 {: .company_name }
@@ -77,12 +79,12 @@ Fiduciary Benchmarks
 Software Developer - [20% Remote]
 {: .company_title }
 
-* Increased automated test speed by 10x compared to normal Rails testing practices.
+* Increased [automated test](https://github.com/zeisler/active_mocker) speed by 10x compared to normal Rails testing practices.
 * Collaborated with business to create benchmarking algorithms for 401k and other Investments.
 * Provided the business with dynamic documentation for customer specific benchmarking results.
 * Paired with co-workers on features while practicing test-driven-development.
 * Created an image comparison tool to detect unexpected changes to high value PDF reports.
-* Optimized JSON API from responding in seconds to milliseconds by transforming relational data into JSON within PostgreSQL.
+* Optimized JSON API from seconds to milliseconds by transforming relational data into JSON within PostgreSQL.
 
  {: .page-break}
  <p class="page-brake"></p>
@@ -94,9 +96,9 @@ Portland Code School
 Resident
  {: .company_title }
 
-* Mentored Students by pair programming, assisting in basic programming literacy, and working with students on personal and group projects.
+* Mentored Students by pair programming to aid in basic literacy, and assisted on personal and group projects.
 * Core contributor for [movie recommendation site](http://critic-critic.herokuapp.com) using movie-rating API.
-* Created [Scrabble game](http://scrabble-game.herokuapp.com) for web that validates words and tracks score.
+* Created [Scrabble game](http://scrabble-game.herokuapp.com) that validates words and tracks score.
 
 NorthTechDefense.com
 {: .company_name }
