@@ -24,7 +24,7 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 
 Expert Ruby Developer - (Rails, Rack, Metaprogramming, Threads, RSpec, Rake, Thor, Bundler, Gems)<br/>
 Javascript - (Jasmine, Reactjs, Flux, Unidirectional data flow)
-Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, LeanKit, JIRA
+Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, LeanKit, JIRA, Splunk
 Pair Programming, Agile, TDD, BDD, Isolated Unit Testing, Continuous Integration, Design Patterns, Object Oriented Design
 
 ### - Open Source -
@@ -54,11 +54,12 @@ Senior Software Developer - [40% Remote]
 {: .company_title }
 
  * Adapted legacy loan auto decision engine to be credit bureau agnostic.
- * Planned and executed [mapped diagnostic context logging](http://veerasundar.com/blog/2009/10/log4j-mdc-mapped-diagnostic-context-what-and-why/)
-  to track requests in a micro-services environment.
+ * Collaborated to create integrations with 3rd party gems to enable more rich logging. 
+ * Deploy gems to track requests through a micro-services infrastructure.
  * Envisioned/created a [DSL](https://github.com/zeisler/markdown_ruby_documentation)
-  for high-level business docs that live in the implementation code.
+  for high-level business docs that live in and is the implementation code.
  * Provided major contributions to a company internal  [ web framework](https://github.com/screamingmuse/rory).
+ * Give presentations on technical findings and explain new technology to entire engineering team.
  
 Cambia/SpendWell
 {: .company_name }
