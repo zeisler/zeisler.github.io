@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>James</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Greegs on James </description>
+    <language>en</language>
+    <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+    <item>
+      <title>01.  James Introduction &amp; 1:1 - 1:8</title>
+      <link>http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/01-Jam%201_1-1_8-Intro.mp3</link>
+      <description>Lecture by Steve Greegs on James (1 of 5)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/01-Jam%201_1-1_8-Intro.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>02.  James 1:9 - 2:7</title>
+      <link>http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/02-Jam%201_9-2_7.mp3</link>
+      <description>Lecture by Steve Greegs on James (2 of 5)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/02-Jam%201_9-2_7.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>03.  James 2:8 - 3:12</title>
+      <link>http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/03-Jam%202_8-3_12.mp3</link>
+      <description>Lecture by Steve Greegs on James (3 of 5)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/03-Jam%202_8-3_12.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>04.  James 3:13 - 4:4</title>
+      <link>http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/04-Jam%203_13-4_4.mp3</link>
+      <description>Lecture by Steve Greegs on James (4 of 5)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/04-Jam%203_13-4_4.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>05.  James 4:5 - 5:20</title>
+      <link>http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/05-Jam%204_5-5_20.mp3</link>
+      <description>Lecture by Steve Greegs on James (5 of 5)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/Verse%20by%20Verse/51-James/05-Jam%204_5-5_20.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    <itunes:image href="steve_gregg.jpg"/>
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>2 Samuel</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Greegs on 2 Samuel </description>
+    <language>en</language>
+    <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+    <item>
+      <title>01. 2 Samuel Teaching 01</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa1.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (1 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. 2 Samuel Teaching 02</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa2.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (2 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa2.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>03. 2 Samuel Teaching 03</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa3.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (3 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa3.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>04. 2 Samuel Teaching 04</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa4.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (4 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa4.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>05. 2 Samuel Teaching 05</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa5.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (5 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa5.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>06. 2 Samuel Teaching 06</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa6.mp3</link>
+      <description>Lecture by Steve Greegs on 2 Samuel (6 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/2_samuel/2sa6.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    <itunes:image href="steve_gregg.jpg"/>
+  </channel>
+</rss>

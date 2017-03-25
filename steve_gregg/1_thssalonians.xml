@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>1 Thssalonians</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Greegs on 1 Thssalonians. </description>
+    <language>en</language>
+    <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+    <item>
+      <title>01. 1 Thessalonians Teaching 01</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_01a.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 1 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_01a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. 1 Thessalonians Teaching 02</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_01b.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 2 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_01b.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <item>
+      <title>03. 1 Thessalonians Teaching 03</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_02a.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 3 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_02a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <item>
+      <title>04. 1 Thessalonians Teaching 04</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_02b.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 4 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_02b.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <item>
+      <title>05. 1 Thessalonians Teaching 05</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_03a.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 5 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_03a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <item>
+      <title>06. 1 Thessalonians Teaching 06</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/thes/1thes_03b.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Thssalonians. 6 of 6</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/thes/1thes_03b.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:08:07 -0700</pubDate>
+      <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+    </item>
+    <dc:date>2014-04-06T17:08:07-07:00</dc:date>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>1 Kings</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Greegs on 1 Kings </description>
+    <language>en</language>
+    <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+    <item>
+      <title>01. 1 Kings 1</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki1.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (1 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. 1 Kings 2 - 4</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki2_4.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (2 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki2_4.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>03. 1 Kings 5 - 9</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki5_9.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (3 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki5_9.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>04. 1 Kings 10 - 12</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki10_12.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (4 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki10_12.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>05. 1 Kings 13 - 15</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki13_15.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (5 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki13_15.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>06. 1 Kings 16 - 18</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki16_18.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (6 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki16_18.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>07. 1 Kings 19 - 21</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki19_21.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (7 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki19_21.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <item>
+      <title>08. 1 Kings 22 - 2 Kings 1</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/kings/1ki22_1.mp3</link>
+      <description>Lecture by Steve Greegs on 1 Kings (8 of 8)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/kings/1ki22_1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:13 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    </item>
+    <dc:date>2014-04-06T17:30:13-07:00</dc:date>
+    <itunes:image href="steve_gregg.jpg"/>
+  </channel>
+</rss>

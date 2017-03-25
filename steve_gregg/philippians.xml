@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Philippians</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Greegs on Philippians </description>
+    <language>en</language>
+    <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+    <item>
+      <title>01.  Philippians Teaching 01</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/phil/philippians_01a.mp3</link>
+      <description>Lecture by Steve Greegs on Philippians (1 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/phil/philippians_01a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>02.  Philippians Teaching 02</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/phil/philippians_01b.mp3</link>
+      <description>Lecture by Steve Greegs on Philippians (2 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/phil/philippians_01b.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>03.  Philippians Teaching 03</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/phil/philippians_02a.mp3</link>
+      <description>Lecture by Steve Greegs on Philippians (3 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/phil/philippians_02a.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <item>
+      <title>04.  Philippians Teaching 04</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/phil/philippians_02b.mp3</link>
+      <description>Lecture by Steve Greegs on Philippians (4 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/phil/philippians_02b.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 17:30:14 -0700</pubDate>
+      <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    </item>
+    <dc:date>2014-04-06T17:30:14-07:00</dc:date>
+    <itunes:image href="steve_gregg.jpg"/>
+  </channel>
+</rss>
