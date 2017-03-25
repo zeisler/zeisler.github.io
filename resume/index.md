@@ -1,7 +1,7 @@
 ---
 layout: github
 title: Resume
-description: "Resume: Senior Ruby/JavaScript Developer"
+description: "Resume: Senior Ruby Developer"
 ---
 
 [Download PDF](./dustin_zeisler.pdf)
@@ -9,33 +9,32 @@ description: "Resume: Senior Ruby/JavaScript Developer"
 
 # Dustin Zeisler
 
-### Senior Ruby/JavaScript Developer
+### Senior Ruby Developer
 
 * [Blog](http://dustinzeisler.com)
 * [Portfolio](http://dustinzeisler.com/projects)
 * [Github](https://github.com/zeisler)
 * [Twitter](https://twitter.com/dustinzeisler)
 * [LinkedIn](https://www.linkedin.com/in/dzeisler)
-* [Email](mailto:dustinzeisler@gmail.com)
+* [Email](mailto:dustinzeisler+resume@gmail.com)
 * (503) 410-3119
 {: .personal-links}
 
 ### - Skill Summary -
 
-Expert Ruby Developer - (Rails, Rack, Metaprogramming, Threads, RSpec, Rake, Thor, Bundler, Gems)<br/>
-Javascript - (Jasmine, Reactjs, Flux, Unidirectional data flow)
-Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, LeanKit, JIRA, Splunk
-Pair Programming, Agile, TDD, BDD, Isolated Unit Testing, Continuous Integration, Design Patterns, Object Oriented Design
+Expert Ruby Developer - (Rails, ActiveRecord, Rack, RSpec, Metaprogramming, Threads, Rake, Bundler, Gems)<br/>
+Javascript, Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, Splunk
+Pair Programming, Agile, Kanban, TDD, BDD, Isolated Unit Testing, Continuous Integration, Design Patterns, Object Oriented Design
 
 ### - Open Source -
 
 Creations
  {: .company_title }
  
- * [Active Mocker](https://github.com/zeisler/active_mocker): A tool to increase productivity in Ruby On Rails when testing code that has database interactions.
- * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Inspect methods, parameters, and constants without loading dependencies.
- * [Active Enumerable](https://github.com/zeisler/active_enumerable): ActiveRecord like query methods for Ruby enumerable collections. .
- * [Reverse Parameters](https://github.com/zeisler/reverse_parameters): Recreate ruby method signatures.
+ * [Active Mocker](https://github.com/zeisler/active_mocker): Increases productivity in Ruby On Rails when testing code with database interactions.
+ * [Dissociated Introspection](https://github.com/zeisler/dissociated_introspection): Inspect Ruby Classes staticly.
+ * [Active Enumerable](https://github.com/zeisler/active_enumerable): ActiveRecord like query methods for Ruby enumerable collections.
+ * [Reverse Parameters](https://github.com/zeisler/reverse_parameters): Dynamically recreate ruby method signatures.
  * [Thread Inheritable Attributes](https://github.com/zeisler/thread-inheritable_attributes): Passes thread variables to child-spawned threads.
 
 Contributions
@@ -50,16 +49,17 @@ Renew Financial
 {: .company_name }
 *10/2015 - Current*
 {: .company_duration }
-Senior Software Developer - [40% Remote] 
+Senior Software Developer - [60% Remote] 
 {: .company_title }
-
- * Adapted legacy loan auto decision engine to be credit bureau agnostic.
- * Collaborated to create integrations with 3rd party gems to enable more rich logging. 
- * Deploy gems to track requests through a micro-services infrastructure.
- * Envisioned/created a [DSL](https://github.com/zeisler/markdown_ruby_documentation)
-  for high-level business docs that live in and is the implementation code.
+ * Mentored junior and midlevel developers in domain of business, programming skills, and process.
+ * Adapted legacy loan decision engine to be credit bureau agnostic using OOP.
+ * Team lead for data warehouse project to capture decisions and attributes of Loan Decision Engine.
+ * Analyzed data warehouse for anomalies, created reports of findings and suggested system improvements.
+ * Planned, developed, and deployed gem to track requests through a micro-services infrastructure.
+ * Envisioned/created a [auto-generated documentation engine](https://github.com/zeisler/markdown_ruby_documentation)
+ for internal Loan Decision Engine. Improved developer to business communication and increased speed of spec to release cycle.
  * Provided major contributions to a company internal  [ web framework](https://github.com/screamingmuse/rory).
- * Give presentations on technical findings and explain new technology to entire engineering team.
+ * Presented on technical findings and explained new technology to the entire engineering team.
  
 Cambia/SpendWell
 {: .company_name }
@@ -72,6 +72,9 @@ Software Developer, Contractor - [20% Remote]
 * Trained team on Test Driven Development by giving presentations and through one-on-one training.
 * After learning Reactjs I led the development of a multi faceted-guided search for health care products/services.
 * Created a fully Restful client side app using React Router.
+
+ {: .page-break}
+ <p class="page-brake"></p>
 
 Fiduciary Benchmarks
 {: .company_name }
@@ -86,9 +89,6 @@ Software Developer - [20% Remote]
 * Paired with co-workers on features while practicing test-driven-development.
 * Created an image comparison tool to detect unexpected changes to high value PDF reports.
 * Optimized JSON API from seconds to milliseconds by transforming relational data into JSON within PostgreSQL.
-
- {: .page-break}
- <p class="page-brake"></p>
 
 Portland Code School
 {: .company_name }
