@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Job</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Job</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:55:10 -0700</pubDate>
+    <item>
+      <title>11.  Job 38 - 42</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/11.%20Job%2038-42.MP3</link>
+      <description>Job (11 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/11.%20Job%2038-42.MP3"
+        length="32396642"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/11.%20Job%2038-42.MP3</guid>
+      <dc:date>2017-08-31T05:55:10.596407-07:00</dc:date>
+    </item>
+    <item>
+      <title>10.  Job 32 - 37</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/10.%20Job%2032-37.MP3</link>
+      <description>Job (10 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/10.%20Job%2032-37.MP3"
+        length="24472763"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/10.%20Job%2032-37.MP3</guid>
+      <dc:date>2017-09-01T05:55:10.5973-07:00</dc:date>
+    </item>
+    <item>
+      <title>09.  Job 29 - 31</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/09.%20Job%2029-31.MP3</link>
+      <description>Job (9 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/09.%20Job%2029-31.MP3"
+        length="27000580"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/09.%20Job%2029-31.MP3</guid>
+      <dc:date>2017-09-02T05:55:10.599259-07:00</dc:date>
+    </item>
+    <item>
+      <title>08.  Job 23 - 28</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/08.%20Job%20%2023-28.MP3</link>
+      <description>Job (8 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/08.%20Job%20%2023-28.MP3"
+        length="27288763"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/08.%20Job%20%2023-28.MP3</guid>
+      <dc:date>2017-09-03T05:55:10.602639-07:00</dc:date>
+    </item>
+    <item>
+      <title>07.  Job 18 - 22</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/07.%20Job%20%2018-22.MP3</link>
+      <description>Job (7 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/07.%20Job%20%2018-22.MP3"
+        length="26984279"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 04 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/07.%20Job%20%2018-22.MP3</guid>
+      <dc:date>2017-09-04T05:55:10.604323-07:00</dc:date>
+    </item>
+    <item>
+      <title>06.  Job 11 - 17</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/06.%20Job%2011-17.MP3</link>
+      <description>Job (6 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/06.%20Job%2011-17.MP3"
+        length="28693523"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 05 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/06.%20Job%2011-17.MP3</guid>
+      <dc:date>2017-09-05T05:55:10.605214-07:00</dc:date>
+    </item>
+    <item>
+      <title>05.  Job 6 - 10</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/05.%20Job%206-10.MP3</link>
+      <description>Job (5 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/05.%20Job%206-10.MP3"
+        length="25810441"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 06 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/05.%20Job%206-10.MP3</guid>
+      <dc:date>2017-09-06T05:55:10.606372-07:00</dc:date>
+    </item>
+    <item>
+      <title>04.  Job 3 - 5</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/04.%20Job%203-5.MP3</link>
+      <description>Job (4 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/04.%20Job%203-5.MP3"
+        length="27975679"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 07 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/04.%20Job%203-5.MP3</guid>
+      <dc:date>2017-09-07T05:55:10.608393-07:00</dc:date>
+    </item>
+    <item>
+      <title>03.  Job 1 - 2</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/03.%20Job%201-2.MP3</link>
+      <description>Job (3 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/03.%20Job%201-2.MP3"
+        length="28999261"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 08 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/03.%20Job%201-2.MP3</guid>
+      <dc:date>2017-09-08T05:55:10.609576-07:00</dc:date>
+    </item>
+    <item>
+      <title>02.  Job Introduction - Part 2</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/02.%20Job%20Intro%20b.MP3</link>
+      <description>Job (2 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/02.%20Job%20Intro%20b.MP3"
+        length="34734705"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 09 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/02.%20Job%20Intro%20b.MP3</guid>
+      <dc:date>2017-09-09T05:55:10.610481-07:00</dc:date>
+    </item>
+    <item>
+      <title>01.  Job Introduction - Part 1</title>
+      <link>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/01.%20Job%20Intro%20a.MP3</link>
+      <description>Job (1 of 11)</description>
+      <enclosure url="http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/01.%20Job%20Intro%20a.MP3"
+        length="28050702"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 10 Sep 2017 05:55:10 -0700</pubDate>
+      <guid>http://media.theos.org/Steve%20Gregg/GCS/Old%20Testament/Job/01.%20Job%20Intro%20a.MP3</guid>
+      <dc:date>2017-09-10T05:55:10.611413-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:55:10-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

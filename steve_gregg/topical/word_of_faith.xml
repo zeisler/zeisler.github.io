@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Word of Faith</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Word of Faith</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:56:07 -0700</pubDate>
+    <item>
+      <title>04.  Prosperity?</title>
+      <link>http://www.thenarrowpath.com/mp3s/wor/wor04.mp3</link>
+      <description>Word of Faith (4 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/wor/wor04.mp3"
+        length="16325946"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:56:07 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/wor/wor04.mp3</guid>
+      <dc:date>2017-08-31T05:56:07.0361-07:00</dc:date>
+    </item>
+    <item>
+      <title>03.  Healing on Demand?</title>
+      <link>http://www.thenarrowpath.com/mp3s/wor/wor03.mp3</link>
+      <description>Word of Faith (3 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/wor/wor03.mp3"
+        length="16133286"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:56:07 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/wor/wor03.mp3</guid>
+      <dc:date>2017-09-01T05:56:07.03701-07:00</dc:date>
+    </item>
+    <item>
+      <title>02.  Is Healing in the Atonement?</title>
+      <link>http://www.thenarrowpath.com/mp3s/wor/wor02.mp3</link>
+      <description>Word of Faith (2 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/wor/wor02.mp3"
+        length="16233828"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:56:07 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/wor/wor02.mp3</guid>
+      <dc:date>2017-09-02T05:56:07.03817-07:00</dc:date>
+    </item>
+    <item>
+      <title>01.  Introduction</title>
+      <link>http://www.thenarrowpath.com/mp3s/wor/wor01.mp3</link>
+      <description>Word of Faith (1 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/wor/wor01.mp3"
+        length="16187574"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 05:56:07 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/wor/wor01.mp3</guid>
+      <dc:date>2017-09-03T05:56:07.03882-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:56:07-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

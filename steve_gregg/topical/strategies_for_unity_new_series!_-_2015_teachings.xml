@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Strategies for Unity New Series! - 2015 Teachings</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Strategies for Unity New Series!</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:56:06 -0700</pubDate>
+    <item>
+      <title>04. Strategies for Unity  Part 4</title>
+      <link>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/04_2015_Strategies_for_Unity_Part_4.mp3</link>
+      <description>Strategies for Unity New Series! - 2015 Teachings (4 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/04_2015_Strategies_for_Unity_Part_4.mp3"
+        length="42177306"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/04_2015_Strategies_for_Unity_Part_4.mp3</guid>
+      <dc:date>2017-08-31T05:56:06.620954-07:00</dc:date>
+    </item>
+    <item>
+      <title>03. Strategies for Unity  Part 3</title>
+      <link>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/03_2015_Strategies_for_Unity_Part_3.mp3</link>
+      <description>Strategies for Unity New Series! - 2015 Teachings (3 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/03_2015_Strategies_for_Unity_Part_3.mp3"
+        length="34147892"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/03_2015_Strategies_for_Unity_Part_3.mp3</guid>
+      <dc:date>2017-09-01T05:56:06.621684-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. Strategies for Unity  Part 2</title>
+      <link>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/02_2015_Strategies_for_Unity_Part_2.mp3</link>
+      <description>Strategies for Unity New Series! - 2015 Teachings (2 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/02_2015_Strategies_for_Unity_Part_2.mp3"
+        length="99775738"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/02_2015_Strategies_for_Unity_Part_2.mp3</guid>
+      <dc:date>2017-09-02T05:56:06.622296-07:00</dc:date>
+    </item>
+    <item>
+      <title>01. Strategies for Unity  Part 1</title>
+      <link>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/01_2015_Strategies_for_Unity_Part_1.mp3</link>
+      <description>Strategies for Unity New Series! - 2015 Teachings (1 of 4)</description>
+      <enclosure url="http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/01_2015_Strategies_for_Unity_Part_1.mp3"
+        length="44302838"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/Audio_Teachings/Topical/Strategies_for_Unity/01_2015_Strategies_for_Unity_Part_1.mp3</guid>
+      <dc:date>2017-09-03T05:56:06.622867-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:56:06-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Content of the Gospel</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Content of the Gospel</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:56:05 -0700</pubDate>
+    <item>
+      <title>06.  Gospel of Grace</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con06.mp3</link>
+      <description>Content of the Gospel (6 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con06.mp3"
+        length="15409992"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:56:05 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con06.mp3</guid>
+      <dc:date>2017-08-31T05:56:05.998935-07:00</dc:date>
+    </item>
+    <item>
+      <title>05.  Eternal Security</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con05.mp3</link>
+      <description>Content of the Gospel (5 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con05.mp3"
+        length="16029234"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:56:05 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con05.mp3</guid>
+      <dc:date>2017-09-01T05:56:05.999364-07:00</dc:date>
+    </item>
+    <item>
+      <title>04.  What Must I Do to Be Saved?</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con04.mp3</link>
+      <description>Content of the Gospel (4 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con04.mp3"
+        length="16336554"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:56:05 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con04.mp3</guid>
+      <dc:date>2017-09-02T05:56:05.999786-07:00</dc:date>
+    </item>
+    <item>
+      <title>03.  The Gospel of Salvation</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con03.mp3</link>
+      <description>Content of the Gospel (3 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con03.mp3"
+        length="16207464"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con03.mp3</guid>
+      <dc:date>2017-09-03T05:56:06.000-07:00</dc:date>
+    </item>
+    <item>
+      <title>02.  The Gospel of the Kingdom of God</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con02.mp3</link>
+      <description>Content of the Gospel (2 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con02.mp3"
+        length="16065972"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 04 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con02.mp3</guid>
+      <dc:date>2017-09-04T05:56:06.000-07:00</dc:date>
+    </item>
+    <item>
+      <title>01.  The Gospel of Jesus Christ</title>
+      <link>http://www.thenarrowpath.com/mp3s/content/con01.mp3</link>
+      <description>Content of the Gospel (1 of 6)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/content/con01.mp3"
+        length="14636544"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 05 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/content/con01.mp3</guid>
+      <dc:date>2017-09-05T05:56:06.0012-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:56:05-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

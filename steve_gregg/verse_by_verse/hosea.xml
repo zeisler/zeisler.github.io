@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Hosea</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Hosea</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:55:11 -0700</pubDate>
+    <item>
+      <title>03. Hosea 10 - 14</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/hosea/hos10_14.mp3</link>
+      <description>Hosea (3 of 3)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/hosea/hos10_14.mp3"
+        length="13995460"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:55:11 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/bible/hosea/hos10_14.mp3</guid>
+      <dc:date>2017-08-31T05:55:11.244228-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. Hosea 4 - 9</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/hosea/hos4_9.mp3</link>
+      <description>Hosea (2 of 3)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/hosea/hos4_9.mp3"
+        length="14590080"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:55:11 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/bible/hosea/hos4_9.mp3</guid>
+      <dc:date>2017-09-01T05:55:11.244916-07:00</dc:date>
+    </item>
+    <item>
+      <title>01. Hosea 1 - 3</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/hosea/hos1_3.mp3</link>
+      <description>Hosea (1 of 3)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/hosea/hos1_3.mp3"
+        length="14557312"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:55:11 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/bible/hosea/hos1_3.mp3</guid>
+      <dc:date>2017-09-02T05:55:11.246661-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:55:11-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

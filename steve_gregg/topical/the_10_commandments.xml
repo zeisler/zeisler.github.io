@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>The 10 Commandments</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on The 10 Commandments</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:56:06 -0700</pubDate>
+    <item>
+      <title>12. Lecture - Part 12</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_12.mp3</link>
+      <description>The 10 Commandments (12 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_12.mp3"
+        length="16203008"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_12.mp3</guid>
+      <dc:date>2017-08-31T05:56:06.659792-07:00</dc:date>
+    </item>
+    <item>
+      <title>11. Lecture - Part 11</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_11.mp3</link>
+      <description>The 10 Commandments (11 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_11.mp3"
+        length="13912879"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_11.mp3</guid>
+      <dc:date>2017-09-01T05:56:06.66085-07:00</dc:date>
+    </item>
+    <item>
+      <title>10. Lecture - Part 10</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_10.mp3</link>
+      <description>The 10 Commandments (10 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_10.mp3"
+        length="15811798"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 02 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_10.mp3</guid>
+      <dc:date>2017-09-02T05:56:06.661658-07:00</dc:date>
+    </item>
+    <item>
+      <title>09. Lecture - Part 9</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_09.mp3</link>
+      <description>The 10 Commandments (9 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_09.mp3"
+        length="11153957"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_09.mp3</guid>
+      <dc:date>2017-09-03T05:56:06.662172-07:00</dc:date>
+    </item>
+    <item>
+      <title>08. Lecture - Part 8</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_08.mp3</link>
+      <description>The 10 Commandments (8 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_08.mp3"
+        length="16177382"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 04 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_08.mp3</guid>
+      <dc:date>2017-09-04T05:56:06.663016-07:00</dc:date>
+    </item>
+    <item>
+      <title>07. Lecture - Part 7</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_07.mp3</link>
+      <description>The 10 Commandments (7 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_07.mp3"
+        length="14543188"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 05 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_07.mp3</guid>
+      <dc:date>2017-09-05T05:56:06.66357-07:00</dc:date>
+    </item>
+    <item>
+      <title>06. Lecture - Part 6</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_06.mp3</link>
+      <description>The 10 Commandments (6 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_06.mp3"
+        length="16070646"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 06 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_06.mp3</guid>
+      <dc:date>2017-09-06T05:56:06.664108-07:00</dc:date>
+    </item>
+    <item>
+      <title>05. Lecture - Part 5</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_05.mp3</link>
+      <description>The 10 Commandments (5 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_05.mp3"
+        length="10383841"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 07 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_05.mp3</guid>
+      <dc:date>2017-09-07T05:56:06.664642-07:00</dc:date>
+    </item>
+    <item>
+      <title>04. Lecture - Part 4</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_04.mp3</link>
+      <description>The 10 Commandments (4 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_04.mp3"
+        length="11370799"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 08 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_04.mp3</guid>
+      <dc:date>2017-09-08T05:56:06.665087-07:00</dc:date>
+    </item>
+    <item>
+      <title>03. Lecture - Part 3</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_03.mp3</link>
+      <description>The 10 Commandments (3 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_03.mp3"
+        length="15682414"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 09 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_03.mp3</guid>
+      <dc:date>2017-09-09T05:56:06.665601-07:00</dc:date>
+    </item>
+    <item>
+      <title>02. Lecture - Part 2</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_02.mp3</link>
+      <description>The 10 Commandments (2 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_02.mp3"
+        length="11444699"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 10 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_02.mp3</guid>
+      <dc:date>2017-09-10T05:56:06.666126-07:00</dc:date>
+    </item>
+    <item>
+      <title>01. Lecture - Part 1</title>
+      <link>http://www.thenarrowpath.com/mp3s/10com/10com_01.mp3</link>
+      <description>The 10 Commandments (1 of 12)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/10com/10com_01.mp3"
+        length="14192807"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 11 Sep 2017 05:56:06 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/10com/10com_01.mp3</guid>
+      <dc:date>2017-09-11T05:56:06.666631-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:56:06-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>

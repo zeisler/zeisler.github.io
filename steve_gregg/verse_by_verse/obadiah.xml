@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Obadiah</title>
+    <link>http://www.thenarrowpath.com</link>
+    <description>Lecture by Steve Gregg on Obadiah</description>
+    <language>en</language>
+    <pubDate>Sun, 29 Oct 2017 05:55:11 -0700</pubDate>
+    <item>
+      <title>01.  Obadiah - Full Book</title>
+      <link>http://www.thenarrowpath.com/mp3s/bible/obadiah/obadiah.mp3</link>
+      <description>Obadiah (1 of 1)</description>
+      <enclosure url="http://www.thenarrowpath.com/mp3s/bible/obadiah/obadiah.mp3"
+        length="3710934"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 31 Aug 2017 05:55:11 -0700</pubDate>
+      <guid>http://www.thenarrowpath.com/mp3s/bible/obadiah/obadiah.mp3</guid>
+      <dc:date>2017-08-31T05:55:11.280052-07:00</dc:date>
+    </item>
+    <dc:date>2017-10-29T05:55:11-07:00</dc:date>
+    <itunes:image href="http://dustinzeisler.com/steve_gregg/steve_gregg.jpg"/>
+  </channel>
+</rss>
