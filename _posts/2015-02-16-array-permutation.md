@@ -4,6 +4,7 @@ date: 2015-02-16
 tags: ruby array
 layout: post
 comments: true
+email_sign_up: true
 ---
 
 When invoked with a block, yield all permutations of length n of the elements of the array, then return the array itself.
