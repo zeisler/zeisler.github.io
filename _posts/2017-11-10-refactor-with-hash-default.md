@@ -32,6 +32,26 @@ h[:dog]
 #=> :default_key
 {% endhighlight %}
 
+Be aware if this is exposed as public API it may not do what end users are expecting, so either keep the hash with defaults set isolated or be very sure you think about the issues it could cause.
+
+Side note don't depend on using `nil` as an indicator of a key not being present because if the value it's self is `nil` then your code has miss understood the meaning.
+
+{% highlight ruby %}
+h = { dog: nil }
+h[:dog]
+#=> nil
+{% endhighlight %}
+
+If you need to know if a key is realy present use `Hash#key?`.
+
+{% highlight ruby %}
+h = { dog: nil }
+h.key?(:dog)
+#=> true
+{% endhighlight %}
+
+That feels better.
+
 ### What about setting a proc
 You can set the default to a proc, but that's not what you would want a proc for.
 
@@ -108,8 +128,10 @@ def sales_tax
 end
 {% endhighlight %}
 
-This hash could get large and when it does you might want to move it to a YAML file.
+This hash could get large and when it does you might want to move it to a YAML file. The goal here is to reducing churn of the Ruby file and separating data from logic. If you can make Ruby files unchanging it makes them more stable. When the data needs changing it can be changed independently of the code. If the YAML file was changing all the time I might consider moving that to a database leading to no churn in the repository.
 
 The best solution depends on the use case. I give you the tools it's your responsibility to use them wisely. 
 
 Code responsibly!
+
+_Post edited 2017-11-14 to address [Reddit comments](https://www.reddit.com/r/ruby/comments/7cp207/refactoring_with_hash_defaults/)_
