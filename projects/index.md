@@ -5,6 +5,10 @@ description: ""
 ---
 
 * [ActiveMocker](#active-mocker)
+* [Dissociated Introspection](#dissociated-introspection)
+* [Active Enumerable](#active-enumerable)
+* [Reverse Parameters](#reverse-parameters)
+* [Thread Inheritable Attributes](#thread-inheritable-attributes)
 * [Voice Chapters](#voice-chapetrs)
 * [Credit Card Processor](#credit-card-processor)
 * [Scrabble/JavaScript](#scrabble-in-javascript)
@@ -17,9 +21,42 @@ description: ""
 
 # Active Mocker
 
-[Github](https://github.com/zeisler/active_mocker)
+* [Github](https://github.com/zeisler/active_mocker)
+* Post: [Why use ActiveMocker]({{ site.baseurl }}{%  post_url 2017-05-02-why-use-active-mocker %})
 
-Creates mocks classes from ActiveRecord models. Allowing your test suite to run very fast by not loading Rails a database. It parses the schema.rb and the defined methods on a model then generates a ruby file that can be included within a test. The mock file can be run by themselves and come with a partial implementation of ActiveRecord. Attributes and associations can be used just the same as in ActiveRecord. Methods will have the correct arguments but raise an NotImplementedError when called. Mocks are regenerated when the schema is modified so your mocks will not go stale; preventing the case where your units tests pass but production code fails.
+Creates stub classes from any ActiveRecord model.
+
+By using stubs in your tests you don't need to load Rails or the database, sometimes resulting in a 10x speed improvement.
+
+ActiveMocker analyzes the methods and database columns to generate a Ruby class file.
+
+The stub file can be run standalone and comes included with many useful parts of ActiveRecord.
+
+Stubbed out methods contain their original argument signatures or ActiveMocker friendly code can be brought over in its entirety.
+
+Mocks are regenerated when the schema is modified so your mocks won't go stale, preventing the case where your unit tests pass but production code fails.
+
+# Dissociated Introspection
+ [Github](https://github.com/zeisler/dissociated_introspection)
+ 
+Introspect methods, parameters, class macros, and constants without loading a parent class or any other dependencies.
+ 
+# Active Enumerable
+ * [Github](https://github.com/zeisler/active_enumerable)
+ 
+ActiveRecord like query methods for Ruby enumerable collections.
+ 
+# Reverse Parameters
+ * [Github](https://github.com/zeisler/reverse_parameters)
+ 
+Dynamically recreate ruby method signatures.
+ 
+ 
+# Thread Inheritable Attributes
+ * [Github](https://github.com/zeisler/thread-inheritable_attributes)
+ 
+Passes thread variables to child-spawned threads.
+
 
 # Voice Chapters
 
