@@ -8,24 +8,17 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
+  <article class="post-content" data-posttime="{{page.date  | date_to_xmlschema}}">
     {{ content }}
   </article>
 
-  <div class="related-posts">
-
-    <h4>Related Posts</h4>
-    <ul>
-      {% for post in site.related_posts limit:4 %}
-      <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+  {% include related-posts.html %}
 
   {% if page.email_sign_up %}
   {% include email_sign_up.html %}
   {% endif %}
 
-  {% if page.comments %}
+  {% if page.comments AND jekyll.environment != "development" %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
