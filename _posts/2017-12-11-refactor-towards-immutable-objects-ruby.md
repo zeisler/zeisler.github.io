@@ -4,6 +4,8 @@ title: Refactoring Towards Immutable Objects in Ruby [Video]
 description: 
 category: Refactoring
 tags: [mutable ruby refactoring video]
+comments: true
+email_sign_up: true
 ---
 
 Learn how to refactor from a mutable object into an immutable one while still being able to make changes to state. 
@@ -42,3 +44,5 @@ account3 = account2.withdrawn(99)
 puts account.balance
 puts account3.balance
 {% endhighlight %}
+
+https://twitter.com/intent/retweet?tweet_id=940461542880854016
