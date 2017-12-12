@@ -45,4 +45,4 @@ puts account.balance
 puts account3.balance
 {% endhighlight %}
 
-https://twitter.com/intent/retweet?tweet_id=940461542880854016
+[Retweet Post](https://twitter.com/intent/retweet?tweet_id=940461542880854016)
