@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Refactoring Towards Immutable Objects in Ruby
+title: Refactoring Towards Immutable Objects in Ruby [Video]
 description: 
 category: Refactoring
-tags: [mutable ruby refactoring]
+tags: [mutable ruby refactoring video]
 ---
 
 Learn how to refactor from a mutable object into an immutable one while still being able to make changes to state. 

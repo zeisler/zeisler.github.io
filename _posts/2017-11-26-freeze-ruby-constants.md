@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Freeze Ruby Constants
+title: Freeze Ruby Constants [Video]
 description:
 category: ruby
-tags: [ruby best-practices]
+tags: [ruby best-practices video]
 comments: true
 email_sign_up: true
 ---
