@@ -6,6 +6,8 @@ category: ruby
 tags: [ruby best-practices video]
 comments: true
 email_sign_up: true
+type: video
+video_link: https://www.youtube.com/embed/7-gTux21c_U?
 ---
 
 An intro video to Ruby constants their enforcement pitfalls and how to fix them and why you should care in your code.

@@ -6,6 +6,8 @@ category: Refactoring
 tags: [mutable ruby refactoring video]
 comments: true
 email_sign_up: true
+type: video
+video_link: https://www.youtube.com/embed/IIG8oDf4iz8
 ---
 
 Learn how to refactor from a mutable object into an immutable one while still being able to make changes to state. 
