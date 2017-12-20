@@ -35,7 +35,7 @@ class Account
 
   private
 
-  def updated(balance: balance, name: name)
+  def updated(balance: self.balance, name: self.name)
     Account.new(balance: balance, name: name)
   end
 end
@@ -48,3 +48,5 @@ puts account3.balance
 {% endhighlight %}
 
 [Retweet Post](https://twitter.com/intent/retweet?tweet_id=940461542880854016)
+
+Edited 2017-12-20 to fix warnings `circular argument reference` for Ruby >= 2.2
