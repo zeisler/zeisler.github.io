@@ -8,8 +8,8 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
+$dark-red: #780213;
+$brand-color: darken($dark-red, 15%);
 /**
  * Basic styling
  */
@@ -262,4 +262,35 @@ pre {
     margin-left: 10px;
     margin-bottom: 5px;
     clear: both;
+}
+
+.logo-section {
+  img {
+    max-width: 80%;
+  }
+  h1 {
+    font-size: 4em;
+  }
+  .ruby {
+    color: #780213
+  }
+}
+
+.post-list {
+  h2 {
+    border-bottom: 1px solid $grey-color;
+    a:hover {
+      text-decoration: none;
+      color: #6b494d;
+    }
+  }
+  .post-meta {
+    float: right;
+  }
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -99px;
+    visibility: hidden;
+  }
 }

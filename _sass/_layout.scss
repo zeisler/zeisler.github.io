@@ -8,6 +8,12 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    .head-shot {
+        border-radius: 50%;
+        height: 55px;
+        float: left;
+        padding: 5px;
+    }
 }
 
 .site-title {
