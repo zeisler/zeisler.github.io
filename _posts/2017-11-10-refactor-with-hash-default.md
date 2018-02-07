@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Refactoring with Hash Defaults
-description: 
 category: refactoring
 tags: [ruby hash refactoring]
 comments: true

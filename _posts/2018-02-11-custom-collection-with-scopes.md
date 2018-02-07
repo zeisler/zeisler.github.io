@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Custom Collections with scopes
-description: 
 category: Ruby
+comments: true
+email_sign_up: true
+type: video
 tags: [ruby rails active_record]
 ---
 [ActiveRecord Scopes][] can be nice to use and a useful way to think about data. 
