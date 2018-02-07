@@ -1,11 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    awesome_print (1.6.1)
     blankslate (2.1.2.4)
+    byebug (9.0.6)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     classifier-reborn (2.0.3)
       fast-stemmer (~> 1.0)
+    coderay (1.1.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -45,9 +48,16 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
+    method_source (0.9.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
-    posix-spawn (0.3.11)
+    posix-spawn (0.3.13)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+    pry-byebug (3.4.0)
+      byebug (~> 9.0)
+      pry (~> 0.10)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
@@ -62,14 +72,17 @@ GEM
       hitimes
     toml (0.1.2)
       parslet (~> 1.5.0)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   jekyll
+  pry
+  pry-byebug
   rake
 
 BUNDLED WITH
-   1.11.2
+   1.16.1

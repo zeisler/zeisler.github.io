@@ -16,10 +16,4 @@ I practice test-driven development and really enjoy learning and teaching throug
 
 <h2>What other are saying:</h2>
 
-<blockquote><p>Dustin is a brilliant engineer. He impressed me with his creative solutions. Dustin has a bright career ahead of him.</p>
-<span>- Dan Lamet, Technical Team Lead at Nike</span>
-</blockquote>
-
-<blockquote><p>Dustin is an exceptional developer who I offer my highest recommendation. While at SpendWell, he worked on several greenfield projects of significant complexity. His insight into design patterns and testing practices produced an architecture that is readily extendable, and a code base that embodies precision and clarity. Dustin took initiative to implement new test tooling that accelerated the entire teams velocity. He is also open minded about new technologies and readily learned several javascript tools in a short time. Finally, he is certifiably nice guy who is enjoyable to pair with.</p>
-<span>- David Stocker, Team Leader / Web Applications Developer</span>
-</blockquote>
+{% include recommendations.html %}
