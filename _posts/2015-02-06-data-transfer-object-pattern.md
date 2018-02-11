@@ -28,7 +28,7 @@ class ExpensiveComputation
   class Response
     attr_accessor :attr_a, :attr_b
 
-    def initialize(attr_a:, attr_b)
+    def initialize(attr_a:, attr_b:)
       @attr_a = attr_a
       @attr_b = attr_b
     end

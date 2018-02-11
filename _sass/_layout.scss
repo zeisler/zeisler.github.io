@@ -47,6 +47,26 @@
         }
     }
 
+    .username {
+        display: none;
+    }
+    .social-media-list {
+        margin-left: 20px;
+        margin-bottom: 0;
+        float: right;
+        svg {
+            width: 22px;
+            height: auto;
+        }
+    }
+
+    ul {
+        li {
+            display: inline-block;
+        }
+    }
+
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -55,6 +75,15 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
+
+        .page-link {
+            margin-left: 0;
+            margin-right: 20px;
+        }
+        .social-media-list {
+            margin-left: 0;
+            margin-right: 20px;
+        }
 
         .menu-icon {
             display: block;
@@ -211,6 +240,7 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+    padding-top: 15px;
 }
 
 .post-content {
@@ -237,6 +267,21 @@
 
         @include media-query($on-laptop) {
             font-size: 18px;
+        }
+    }
+}
+
+.post {
+    .logo-section {
+        img {
+            width: 100px;
+            height: auto;
+            max-width: 20%;
+            float: right;
+        }
+        h1 {
+            font-size: 1.5em;
+            border-bottom: 1px solid #e8e8e8;
         }
     }
 }
