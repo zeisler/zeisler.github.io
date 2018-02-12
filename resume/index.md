@@ -23,7 +23,7 @@ description: "Resume: Senior Ruby Developer"
 ### - Skill Summary -
 
 Expert Ruby Developer - (Rails, ActiveRecord, Rack, RSpec, Metaprogramming, Threads, Rake, Bundler, Gems)<br/>
-Javascript, Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI, Splunk
+Javascript, Unix, PostgreSQL, SQL, Git, Github, Vagrant, TeamCity, TravisCI
 Pair Programming, Agile, Kanban, TDD, BDD, Isolated Unit Testing, Continuous Integration, Design Patterns, Object Oriented Design
 
 ### - Open Source -
@@ -38,6 +38,7 @@ Renew Financial
 {: .company_duration }
 Senior Software Developer - [80% Remote] 
 {: .company_title }
+
  * Project lead for rapidly changing PACE decision engine. Reduced common changes from months to weeks.
  * Mentored developers in business domain, programming skills, and process.
  * Deeply involved in entire software lifecycle. 
@@ -47,6 +48,7 @@ Senior Software Developer - [80% Remote]
  * Presented on technical findings and explained new technology to the entire engineering team.
  * Pushed standards to improve testing quality (branch coverage over line coverage).
  
+ * Regularly gave technical presentations to entire engineering organization.
 Cambia/SpendWell
 {: .company_name }
 *6/2015 - 9/2015*
@@ -54,7 +56,10 @@ Cambia/SpendWell
 Software Developer, Contractor - [20% Remote]
 {: .company_title }
 
-* After learning Reactjs led the development of a multi faceted-guided search for health care products/services.
+
+Product: Price sensitive shoppers, like those using an HSA, could search for services and see a list of providers with the out of pocket cost.
+
+* After learning ReactJS led the development of a multi faceted-guided search for health care products/services.
 * Trained team on Test Driven Development by giving presentations and through one-on-one training.
 * Implemented restful client side app using React Router.
 
@@ -62,8 +67,11 @@ Fiduciary Benchmarks
 {: .company_name }
 *2013 - 2015*
 {: .company_duration }
-Software Developer - [20% Remote]
+Junior Software Developer - [20% Remote]
 {: .company_title }
+
+Product: In depth analysis and benchmarking of 401k plans and other Investments. Comparing them to other similarly sized plans by rating fees along with services. 
+Had a JavaScript (AngularJS) frontend for inputting plan details. Backend was in Ruby On Rails that provided a JSON API for running algorithms and storing and returning data.
 
 * Collaborated with business to create benchmarking algorithms for 401k and other Investments.
 * Increased [automated test](https://github.com/zeisler/active_mocker) speed by 10x compared to normal Rails testing practices.
@@ -87,4 +95,4 @@ NorthTechDefense.com
 Web Developer - [90% remote]
 {: .company_title }
 
-* Collaborated with client to design e-commerce application including database, security, and UI.
+* Product:  e-commerce site that integrated with FFL dealers. Included JavaScript frontend, UI, database, and user accounts.

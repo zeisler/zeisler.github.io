@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Custom Collections with scopes
+title: Custom Ruby Scopes [Video]
 category: Ruby
 comments: true
 email_sign_up: true
 type: video
-tags: [ruby rails active_record]
+tags: [ruby rails active_record video]
+video_link: https://youtu.be/dqU3IhYpyRc
 ---
+
 [ActiveRecord Scopes][] can be nice to use and a useful way to think about data. 
 Chaining methods together in logical filters to get the desired results without having to think about the structure of the data.
 ActiveRecord is tided to doing database queries, but to do that you must have a database. Have you ever wanted use this kind of syntax on a set of custom in-memory objects or an array of hashes?
 Now let's not let ActiveRecord have all the fun we can do the same thing in plain old Ruby and I'll show you how.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqU3IhYpyRc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Here I've got an ActiveRecord Person, notice that it is singular because in ActiveRecord a Class represent a collection of people and a single person.
 We can't very well just create new collections because the source is a single database instance.

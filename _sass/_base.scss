@@ -270,6 +270,9 @@ pre {
   }
   h1 {
     font-size: 4em;
+    @include media-query($on-palm) {
+      font-size: 2em;
+    }
   }
   .ruby {
     color: #780213
