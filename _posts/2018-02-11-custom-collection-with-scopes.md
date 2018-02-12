@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Ruby Scopes [Video]
+title: Custom Ruby Collections with ActiveRecord Like Scopes [Video]
 category: Ruby
 comments: true
 email_sign_up: true
