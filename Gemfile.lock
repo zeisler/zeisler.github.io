@@ -80,9 +80,10 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   jekyll
+  kramdown
   pry
   pry-byebug
   rake
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
