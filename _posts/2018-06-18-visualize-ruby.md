@@ -24,3 +24,10 @@ Under the hood this is using [GraphViz](http://www.graphviz.org/) and [parser ge
 and based on each type converts those to [GraphViz](http://www.graphviz.org/) nodes and edges to create the flow chart.
 
 It's open source, [visualize_ruby](https://github.com/zeisler/visualize_ruby). Feedback and pull-request are welcome.
+
+<div class="joining">
+If you like this blog and my code and would like to work with me, I am currently open to joining/enhancing your software team. 
+If your interested
+<mailto:> 
+<a href="mailto:dustinzeisler@gmail.com?subject=Interested in your skills">Email me</a> at dustinzeisler@gmail.com
+</div>
