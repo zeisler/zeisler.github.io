@@ -16,15 +16,13 @@ layout: default
     {{ content }}
   </article>
 
-  {% include hire_me.html %}
-
   {% include related-posts.html %}
 
   {% if page.email_sign_up %}
     {% include email_sign_up.html %}
   {% endif %}
 
-  {% if page.comments AND jekyll.environment != "development" %}
+  {% if page.comments and jekyll.environment != 'development' %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

@@ -3,7 +3,7 @@ layout: post
 title: Isolating from Rails with a json Api
 description:
 category:
-tags: []
+tags: ruby API
 ---
 
 

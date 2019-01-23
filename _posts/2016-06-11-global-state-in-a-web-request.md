@@ -4,11 +4,7 @@ title: Managing Global State In The Context of a Web Request
 description: How to create and managing global state for the life of a request in
   ruby.
 category: 
-tags:
-- ruby
-- threads
-- web
-- rails
+tags: ruby threads web rails
 date: '2016-06-11T00:00:00.000+00:00'
 ---
 
