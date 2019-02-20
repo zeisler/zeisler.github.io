@@ -11,3 +11,7 @@ linkedin_username: dzeisler
 paginate: 5
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
+  - jekyll-tagging-related_posts

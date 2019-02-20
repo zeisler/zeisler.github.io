@@ -8,40 +8,43 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      <li data-posttime="{{post.date  | date_to_xmlschema}}">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {{ post.excerpt }}
-        {% capture content_words %}
-        {{ post.content | number_of_words }}
-        {% endcapture %}
-        {% capture excerpt_words %}
-        {{ post.excerpt | number_of_words }}
-        {% endcapture %}
-        {% if excerpt_words != content_words %}
-        <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Read more <i class="fa fa-arrow-circle-right"></i></a>
-        </p>
-        {% endif %}
-      </li>
+    <li data-posttime="{{post.date  | date_to_xmlschema}}">
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <a href="{{post.url}}">
+        <img src="{{post.image.link}}" alt="{{post.image.alt}}">
+      </a>
+      {{ post.excerpt }}
+      {% capture content_words %}
+      {{ post.content | number_of_words }}
+      {% endcapture %}
+      {% capture excerpt_words %}
+      {{ post.excerpt | number_of_words }}
+      {% endcapture %}
+      {% if excerpt_words != content_words %}
+      <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Read more <i class="fa fa-arrow-circle-right"></i></a>
+      </p>
+      {% endif %}
+    </li>
     {% endfor %}
   </ul>
 
   <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
+    {% else %}
     <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
+    {% else %}
     <span class="next ">Next</span>
-  {% endif %}
-</div>
+    {% endif %}
+  </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

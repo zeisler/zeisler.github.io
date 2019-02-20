@@ -1,7 +1,7 @@
 ---
 title: Data Transfer Object Pattern
 date: 2015-02-06
-tags: testing programming patterns
+tags: [testing programming patterns ruby objects]
 layout: post
 comments: true
 ---
@@ -128,5 +128,5 @@ The solution is to use the class's definition as the interface. To accomplish th
 I have only been using this pattern for a short time am interested in knowing what others experiences are with the Data Transfer Object pattern.
 
 
-####Additional Info
+#### Additional Info
 [Values in Object Systems by Dirk Riehle](http://dirkriehle.com/computer-science/research/1998/ubilab-tr-1998-10-1.html)

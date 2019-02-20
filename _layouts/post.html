@@ -13,10 +13,9 @@ layout: default
   </header>
 
   <article class="post-content" data-posttime="{{page.date  | date_to_xmlschema}}">
+    <img src="{{page.image.link}}" alt="{{page.image.alt}}">
     {{ content }}
   </article>
-
-  {% include hire_me.html %}
 
   {% include related-posts.html %}
 

@@ -5,7 +5,7 @@ category: Ruby
 comments: true
 email_sign_up: true
 type: video
-tags: [ruby rails active_record video]
+tags: ruby objects rails active_record video
 video_link: https://youtu.be/dqU3IhYpyRc
 ---
 

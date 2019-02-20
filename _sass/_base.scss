@@ -4,8 +4,8 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 $dark-red: #780213;
@@ -14,15 +14,14 @@ $brand-color: darken($dark-red, 15%);
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 300;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
 }
-
 
 
 /**
@@ -32,96 +31,91 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
-
 
 
 /**
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
-
 
 
 /**
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
-
 
 
 /**
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
-
 
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+  font-weight: 300;
 }
-
 
 
 /**
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
+  color: $brand-color;
+  text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
 
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
 }
-
 
 
 /**
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
-    p {
-        quotes: "\201C""\201D""\2018""\2019";
-    }
-    
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+  p {
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+
 }
 
 blockquote p:before {
@@ -144,7 +138,7 @@ blockquote p:after {
 
 blockquote p {
   margin-bottom: 4px;
-  }
+}
 
 blockquote span {
   color: #ccc;
@@ -158,49 +152,47 @@ blockquote span {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+  font-size: 15px;
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+  padding: 8px 12px;
+  overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
-
 
 
 /**
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
 }
-
 
 
 /**
@@ -208,13 +200,12 @@ pre {
  */
 %clearfix {
 
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
-
 
 
 /**
@@ -222,58 +213,60 @@ pre {
  */
 .icon {
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 
-        path {
-            fill: $grey-color;
-        }
+    path {
+      fill: $grey-color;
     }
+  }
 }
 
 .company_name {
-    font-size: 1.25em;
-    font-weight: bold;
-    line-height: 1.4;
-    color: #333;
-    margin-bottom: 5px;
-    float: left;
-    width: 75%;
+  font-size: 1.25em;
+  font-weight: bold;
+  line-height: 1.4;
+  color: #333;
+  margin-bottom: 5px;
+  float: left;
+  width: 75%;
 }
 
 .company_duration {
-    font-size: 1.25em;
-    font-weight: bold;
-    line-height: 1.4;
-    color: #333;
-    margin-bottom: 5px;
-    float: right;
+  font-size: 1.25em;
+  font-weight: bold;
+  line-height: 1.4;
+  color: #333;
+  margin-bottom: 5px;
+  float: right;
 }
 
 
 .company_title {
-    font-weight: 700;
-    line-height: 1.4;
-    color: #333;
-    margin-top: 5px;
-    margin-left: 10px;
-    margin-bottom: 5px;
-    clear: both;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #333;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  clear: both;
 }
 
 .logo-section {
   img {
     max-width: 80%;
   }
+
   h1 {
     font-size: 4em;
     @include media-query($on-palm) {
       font-size: 2em;
     }
   }
+
   .ruby {
     color: #780213
   }
@@ -282,18 +275,67 @@ pre {
 .post-list {
   h2 {
     border-bottom: 1px solid #e8e8e8;
+
     a:hover {
       text-decoration: none;
       color: #6b494d;
     }
   }
+
   .post-meta {
     float: right;
   }
+
   a.anchor {
     display: block;
     position: relative;
     top: -99px;
     visibility: hidden;
   }
+}
+
+table {
+  margin: 15px 0;
+}
+
+table {
+  padding: 0;
+}
+
+table tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+table tr th {
+  font-weight: bold;
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr th :first-child, table tr td :first-child {
+  margin-top: 0;
+}
+
+table tr th :last-child, table tr td :last-child {
+  margin-bottom: 0;
+}
+
+table {
+  border-collapse: collapse;
 }

@@ -3,6 +3,7 @@ title: Portland Code School
 date: 2013-03-8
 tags: rails
 layout: post
+published: false
 ---
 ![Portland Code School Logo](/images/blog/pcs-logo.png)
 
