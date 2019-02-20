@@ -23,7 +23,7 @@ layout: default
     {% include email_sign_up.html %}
   {% endif %}
 
-  {% if page.comments AND jekyll.environment != "development" %}
+  {% if page.comments and jekyll.environment != 'development' %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

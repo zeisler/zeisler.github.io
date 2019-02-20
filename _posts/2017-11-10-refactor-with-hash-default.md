@@ -2,7 +2,7 @@
 layout: post
 title: Refactoring with Hash Defaults
 category: refactoring
-tags: [ruby hash refactoring]
+tags: ruby hash refactoring
 comments: true
 email_sign_up: true
 ---

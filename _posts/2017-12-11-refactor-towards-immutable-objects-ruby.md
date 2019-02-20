@@ -3,7 +3,7 @@ layout: post
 title: Refactoring Towards Immutable Objects in Ruby [Video]
 description: 
 category: Refactoring
-tags: [mutable ruby refactoring video]
+tags: mutable ruby objects refactoring video
 comments: true
 email_sign_up: true
 type: video

@@ -5,7 +5,7 @@ description:
 category: rails
 email_sign_up: true
 comments: true
-tags: [testing refactoring ruby rails active record]
+tags: testing refactoring ruby rails active record
 ---
 
 

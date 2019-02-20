@@ -3,7 +3,7 @@ layout: post
 title: Freeze Ruby Constants [Video]
 description:
 category: ruby
-tags: [ruby best-practices video]
+tags: ruby best-practices video
 comments: true
 email_sign_up: true
 type: video

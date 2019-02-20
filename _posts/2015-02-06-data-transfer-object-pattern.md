@@ -4,6 +4,7 @@ date: 2015-02-06
 tags: [testing programming patterns ruby objects]
 layout: post
 comments: true
+tags: ruby objects
 ---
 
 
