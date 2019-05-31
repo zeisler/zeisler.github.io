@@ -10,6 +10,8 @@ image:
   link: /assets/aws-lambda-podcast-in-ruby/lambda-ruby-podcast.svg
 ---
 
+Learn how to write a Lambda function in Ruby to create a Podcast feed.
+
 As of [Nov 29, 2018](https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-supports-ruby/) you can write server-less
 functions with Ruby! You can now use your favorite Ruby tools and libraries when developing lambda functions. 
 
