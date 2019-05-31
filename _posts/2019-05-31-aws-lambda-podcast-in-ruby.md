@@ -159,3 +159,7 @@ Get the public URL to publish.
 You can play around, add a few other episodes, edit the metadata, and see the feed re-built.
 
 Let me know in the comments what you think you might build with Lambda using Ruby.
+
+#### P.S
+
+*Special Thanks to Jake Mauer and Lolo Zhang for creating my logo.*
