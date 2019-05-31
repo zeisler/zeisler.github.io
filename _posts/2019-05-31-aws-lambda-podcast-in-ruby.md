@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lambda + Ruby = Podcast [tutorial]
+title: AWS Lambda + Ruby = Podcast [tutorial]
 category: Ruby
 comments: true
 email_sign_up: true
