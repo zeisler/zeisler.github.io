@@ -5,7 +5,7 @@ category: Ruby
 comments: true
 email_sign_up: true
 tags: ruby AWS Podcast Lambda
-published: true
+published: false
 image:
   alt: Podcasting with Ruby On Lambda
   link: /assets/aws-lambda-podcast-in-ruby/lambda-ruby-podcast.svg
