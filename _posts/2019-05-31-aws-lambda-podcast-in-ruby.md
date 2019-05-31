@@ -20,7 +20,7 @@ In case your not familiar with lambda here is how <a href="https://docs.aws.amaz
 Let's give this a try and build something. I'm going to show you how to build a podcast feed using plain Ruby in the Lambda service. I will also use S3 to host the podcast mp3s.
 
 ### Create Function
-Create an account with <a href="https://aws.amazon.com/s3" target="_blank">AWS</a>, if you have amazon shopping account you can use the same login. 
+Create an account with <a href="https://aws.amazon.com/s3" target="_blank">AWS</a>, if you have Amazon shopping account, you can use the same login. 
 
 Now let's setup the Lambda function. Open up the <a href="https://aws.amazon.com/lambda/" target="_blank">Lambda Console</a>. 
 
@@ -37,7 +37,7 @@ This code will be triggered later when uploading new episodes. When run it gener
 
 {% include video.html path="/assets/aws-lambda-podcast-in-ruby/add-code-for-lambda" img="/assets/aws-lambda-podcast-in-ruby/lambda-ruby-isometric-black@2x.png" %}
 
-* <a href="/assets/aws-lambda-podcast-in-ruby/lambda_function.rb">Download function</a> code and copy/paste into online editor. Replace the contents of `lambda_function.rb` with what was downloaded.
+* <a href="/assets/aws-lambda-podcast-in-ruby/lambda_function.rb">Download function</a> code and copy/paste into the online editor. Replace the contents of `lambda_function.rb` with what was downloaded.
 * Click orange "Save" button.
 
 ### Create S3 Bucket
@@ -50,16 +50,16 @@ Create a public S3 bucket for hosting the podcast files.
 * Name it `music-podcast`
 * Use the same Region as the lambda function.
 * Allow public access
-* Use default storage option.
+* Use the default storage option.
 
 ### Connect S3 Trigger
 
 Create a trigger for the function to run every time an object is uploaded into the bucket "music-podcast/episodes".
-This way we can rebuild the feed.xml when new files are added without any additional steps.
+This way the xml feed can be rebuilt when new files are added without any additional steps.
 
 {% include video.html path="/assets/aws-lambda-podcast-in-ruby/set-s3-trigger" img="/assets/aws-lambda-podcast-in-ruby/lambda-ruby-isometric-black@2x.png" %}
 
-* In the designer pane scroll down to S3.
+* In the designer, pane scroll down to S3.
 * In the pane select bucket `music-podcast`
 * Add a Prefix of `episodes/` to watch for changes within this directory.
 
@@ -77,7 +77,7 @@ This way we can rebuild the feed.xml when new files are added without any additi
 
 ### Create S3 user with rights to upload to bucket
 
-The lambda function code is going to need a user credentials in order to read from the bucket to get the episode files and then to post back the `feed.xml`. 
+The lambda function code is going to need user credentials to read from the bucket to get the episode files and then to post back the `feed.xml`. 
 
 {% include video.html path="/assets/aws-lambda-podcast-in-ruby/create-iam-user-s3" img="/assets/aws-lambda-podcast-in-ruby/lambda-ruby-isometric-black@2x.png" %}
 
@@ -125,7 +125,7 @@ Each directory will represent a episode number with the mp3 and some metadata in
      metadata.json
 ```
 
-The <a href="/assets/aws-lambda-podcast-in-ruby/metadata.json" download="metadata.json">JSON metadata</a> will look something like this..
+The <a href="/assets/aws-lambda-podcast-in-ruby/metadata.json" download="metadata.json">JSON metadata</a> will look something like this.
 {% highlight json %}
 {
     "title": "Episode 1: Beethoven: Für Elise",
@@ -134,7 +134,7 @@ The <a href="/assets/aws-lambda-podcast-in-ruby/metadata.json" download="metadat
 }
 {% endhighlight %}
 
-If you don't want to create your own download my <a href="/assets/aws-lambda-podcast-in-ruby/episodes.zip" download="episodes.zip">example episodes</a> to get started. 
+If you don't want to create all these files and directors yourself download my <a href="/assets/aws-lambda-podcast-in-ruby/episodes.zip" download="episodes.zip">example episodes</a> to get started. 
 
 {% include video.html path="/assets/aws-lambda-podcast-in-ruby/upload-episodes-to-s3" img="/assets/aws-lambda-podcast-in-ruby/lambda-ruby-isometric-black@2x.png" %}
 
@@ -144,11 +144,10 @@ If you don't want to create your own download my <a href="/assets/aws-lambda-pod
 ### Public Feed URL
 
 Shortly after you will see the `feed.xml` appear in the root of the bucket. 
-<a href="/assets/aws-lambda-podcast-in-ruby/feed.xml" download="feed.xml">
-Here is what mine looks like.
+<a href="/assets/aws-lambda-podcast-in-ruby/feed.xml" download="feed.xml">, here is what mine looks like.
 </a>
 
-Get the public url to publish.
+Get the public URL to publish.
 
 {% include video.html path="/assets/aws-lambda-podcast-in-ruby/public-feed-s3-url" img="/assets/aws-lambda-podcast-in-ruby/lambda-ruby-isometric-black@2x.png" %}
 
@@ -157,6 +156,6 @@ Get the public url to publish.
 
 ### All Done!
 
-You can play around, add a few other episodes, edit the metadata and see the feed re-built.
+You can play around, add a few other episodes, edit the metadata, and see the feed re-built.
 
 Let me know in the comments what you think you might build with Lambda using Ruby.
