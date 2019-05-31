@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Classical Music</title>
+    <link>http://www.example.com</link>
+    <description>Classical Music Podcast</description>
+    <language>en</language>
+    <pubDate>Wed, 22 May 2019 20:44:58 +0000</pubDate>
+    <item>
+      <title>Episode 1: Beethoven: Für Elise</title>
+      <link>https://music-podcast.s3.amazonaws.com/1/audio.mp3</link>
+      <description>Beethoven: Für Elise&lt;img src='https://i.ytimg.com/vi/ggQs08PdUPE/maxresdefault.jpg'&gt;</description>
+      <enclosure url="https://music-podcast.s3.amazonaws.com/1/audio.mp3"
+        length="3393536"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>1</guid>
+      <dc:date>2019-05-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Episode 2: Joplin: The Entertainer Rag</title>
+      <link>https://music-podcast.s3.amazonaws.com/2/audio.mp3</link>
+      <description>Joplin: The Entertainer Rag&lt;img src='https://www.amoeba.com/sized-images/max/500/500/uploads/buystuff_items/075597944921.jpg'&gt;</description>
+      <enclosure url="https://music-podcast.s3.amazonaws.com/2/audio.mp3"
+        length="4253696"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <guid>2</guid>
+      <dc:date>2019-05-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Episode 3: Bach: Two-part Invention in C minor</title>
+      <link>https://music-podcast.s3.amazonaws.com/3/audio.mp3</link>
+      <description>Bach: Two-part Invention in C minor&lt;img src='https://www.gentlemansgazette.com/wp-content/uploads/2014/04/Johann-Sebastian-Bach.jpg'&gt;</description>
+      <enclosure url="https://music-podcast.s3.amazonaws.com/3/audio.mp3"
+        length="2064384"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      <guid>3</guid>
+      <dc:date>2019-05-03T00:00:00+00:00</dc:date>
+    </item>
+    <dc:date>2019-05-22T20:44:58+00:00</dc:date>
+  </channel>
+</rss>

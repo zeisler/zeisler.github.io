@@ -206,6 +206,14 @@
   > li {
     margin-bottom: $spacing-unit;
   }
+
+  img {
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+  }
 }
 
 .post-meta {
@@ -223,6 +231,12 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  img {
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
 }
 
 .post-title {
@@ -292,4 +306,3 @@ article {
     text-decoration: underline;
   }
 }
-
