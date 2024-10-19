@@ -93,7 +93,7 @@ Basic credit card processing cli application. Takes input from stdin or from fil
 #Scrabble in Sinatra
 
 [Github](https://github.com/zeisler/sinatra-scrabble) -
-[Demo](http://scrabble-game.herokuapp.com/)
+[Demo](https://scrabble.dustinzeisler.com)
 
 This is the initial proof of concept of an online Scrabble game. The backend code is written in Ruby and Sinatra for the web view.
 [..more](/2013/07/08/scrabble.html)
