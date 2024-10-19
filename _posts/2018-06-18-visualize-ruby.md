@@ -10,7 +10,7 @@ tags: [ruby flowcharts]
 See Ruby control flow and methods calls as flow charts. 
 Helps developers better understand code and explain it to the non-technical. By using the DSL you already know, Ruby.
 
-Play around with a live [Ruby editor demo](https://visualize-ruby.herokuapp.com) and see the flow chart being formed on the right.
+Play around with a live [Ruby editor demo](https://visualize.dustinzeisler.com) and see the flow chart being formed on the right.
 
 [![Visualize Ruby Demo](/images/visualize_ruby_demo.png)](https://visualize-ruby.herokuapp.com/)
 
