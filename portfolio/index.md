@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 description: ""
 ---
-
+* [Visualize Ruby](#visualize_ruby)
 * [ActiveMocker](#active-mocker)
 * [Dissociated Introspection](#dissociated-introspection)
 * [Active Enumerable](#active-enumerable)
@@ -18,6 +18,13 @@ description: ""
 * [Toggle Cells](#toggle-cells)
 * [Geo-location search](#geolocation-search)
 * [Timer App](#timer-app)
+
+# Visualize Ruby
+
+![](https://raw.githubusercontent.com/zeisler/visualize_ruby/master/logo.jpg)
+* [Demo](https://visualize.dustinzeisler.com)
+* [Github](https://github.com/zeisler/visualize_ruby)
+* Post: [Visualize Ruby Execution](https://dustinzeisler.com/ruby/2018/08/07/visualize-ruby-execution.html)
 
 # Active Mocker
 
